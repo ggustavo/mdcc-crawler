@@ -95,7 +95,7 @@ function crawlerData(degree,req){
                     if(tag == ".dm_row"){
                         special = true;
                         complement = $(this).children('div.dm_description').text();
-                       // console.log("PUTA" + complement +"<<<<<")
+                       // console.log("Value" + complement +"<<<<<")
                     }else{
                         complement = $(this).children('p').text(); //all P
                     }
