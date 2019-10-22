@@ -1,0 +1,1860 @@
+{
+    "works":[
+       {
+          "name":"Germano Fenner",
+          "title":"Um Modelo Orientado ao Négocio para Suporte à Tomada de Decisão Multicritério no Gerenciamento de Capacidade em Provedores IAAS.",
+          "date":"18 de fevereiro de 2019",
+          "advisor":"José Neuman de Souza",
+          "coor_advisor":"Alberto Sampaio Lima",
+          "examination_board":[
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Alberto Sampaio Lima",
+                "organization":"UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Lincoln Souza Rocha",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Joaquim Celestino Junior",
+                "organization":"UECE"
+             },
+             {
+                "name":"José Antão Beltrão Moura",
+                "organization":"UFCG"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"George Allan Menezes Gomes",
+          "title":"Visualização interativa de dinâmicas de tráfego através de dados de trajetórias.",
+          "date":"07 de dezembro de 2018",
+          "advisor":"Emanuele Marques dos Santos",
+          "coor_advisor":"Creto Augusto Vidal",
+          "examination_board":[
+             {
+                "name":"Emanuele Marques dos Santos",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Antonio Fernandes de Macedo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Ascânio Dias Araújo",
+                "organization":"UFC"
+             },
+             {
+                "name":"João Luiz Dihl Comba",
+                "organization":"UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Pablo Luiz Braga Soares",
+          "title":"Problemas quadráticos binários: abordagem teórica e computacional.",
+          "date":"11 de outubro de 2018",
+          "advisor":"Manoel Bezerra Campêlo Neto",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Manoel Bezerra Campêlo Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Rafael Castro de Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Carlos Diego Rodrigues",
+                "organization":"UFC"
+             },
+             {
+                "name":"Philippe Michelon",
+                "organization":"Université d'Avignon  França"
+             },
+             {
+                "name":"Adilson Elias Xavier",
+                "organization":"COPPE/UFRJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Danilo Reis de Vasconcelos",
+          "title":"Smartshadow - predictive computing resources allocation for smart devices in the mist computing environment.",
+          "date":"28 de setembro de 2018",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":"José Neuman de Souza",
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Francisco Luiz Rocha Pimentel",
+                "organization":"UFC"
+             },
+             {
+                "name":"Miguel Franklin de Castro",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"João Paulo Pordeus Gomes",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Carlos André Guimarães Ferraz",
+                "organization":"UFPE"
+             },
+             {
+                "name":"Lisandro Zambenedetti Granville",
+                "organization":"UFRGS"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Regis Pires Magalhães",
+          "title":"Speed prediction applied to dynamic traffic sensors and road networks.",
+          "date":"27 de setembro de 2018",
+          "advisor":"José Antonio Fernandes de Macêdo",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"José Antonio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"João Paulo Pordeus Gomes",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Chiara Renso",
+                "organization":"ISTI/CNR  Itália"
+             },
+             {
+                "name":"Franco Maria Nardini",
+                "organization":"ISTI/CNR  Itália"
+             },
+             {
+                "name":"Francesco Lettich",
+                "organization":"UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"João Carlos Pinheiro",
+          "title":"Titulo: Processamento de Consulta em um Framework Baseado em Mediador para Integração de Dados no Padrão de Linked Data.",
+          "date":"26 de setembro de 2011",
+          "advisor":"Vânia Maria Ponte Vidal",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Vânia Maria Ponte Vidal",
+                "organization":"MDCC/ UFC"
+             },
+             {
+                "name":"José Antônio Fernandes de Macêdo",
+                "organization":"MDCC/ UFC"
+             },
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/ UFC"
+             },
+             {
+                "name":"Fábio André Machado Porto",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Marco Antonio Casanova",
+                "organization":"PUC/RJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Napoleão Vieira Nepomuceno",
+          "title":"Otimização em Redes de Backhaul sem Fio",
+          "date":"17 de dezembro de 2010",
+          "advisor":"Manoel Bezerra Campelo Neto",
+          "coor_advisor":"David Coudert",
+          "examination_board":[
+             {
+                "name":"Manoel Bezerra Campelo Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Ricardo Cordeiro Corrêa",
+                "organization":"UFC"
+             },
+             {
+                "name":"Jean-Claude Bermond",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"David Coudert",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Fabrice Valois",
+                "organization":"INSALyon/França"
+             },
+             {
+                "name":"Arie Koster",
+                "organization":"RWTH Aachen/Alemanha"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Carlos Diego Rodrigues",
+          "title":"Abordagens Híbridas para Problemas de Programação Inteira da Teoria e da Prática Banda Examinadora:",
+          "date":"11 de agosto de 2010",
+          "advisor":null,
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Manoel Bezerra Campelo Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Ricardo Cordeiro  Corrêa",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Philippe Michelon",
+                "organization":"UAPV/França"
+             },
+             {
+                "name":"Dominique Quadri",
+                "organization":"UAPV/França"
+             },
+             {
+                "name":"Nelson Maculan Filho",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Luiz Satoru Ochi",
+                "organization":"UFF"
+             },
+             {
+                "name":"Plácido Rogério Pinheiro",
+                "organization":"UNIFOR"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Jose Gilvan Rodrigues Maia",
+          "title":"Detecção e Reconhecimento de Objetos usando Descritores Locais",
+          "date":"20 de maio de 2010",
+          "advisor":"Fernando Antônio de Carvalho Gomes",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Fernando Antônio de Carvalho Gomes",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Creto Augusto Vidal, UFC",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Ruy Luiz Milidiú",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Francisco Nivando Bezerra",
+                "organization":"IFCE/Maracanaú"
+             },
+             {
+                "name":"José Antonio Fernandes de Macedo",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Gisele Azevedo de Araújo",
+          "title":"Uma Plataforma CCA para Aplicações Científicas Usando Conectores",
+          "date":"16 de abril de 2010",
+          "advisor":"Ricardo Cordeiro Corrêa",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Ricardo Cordeiro Corrêa",
+                "organization":"UFC"
+             },
+             {
+                "name":"Alba Cristina Magalhães de Melo",
+                "organization":"UNB"
+             },
+             {
+                "name":"Maria Cristina Silva Boeres",
+                "organization":"UFF"
+             },
+             {
+                "name":"Francisco Heron de Carvalho Junior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Márcio Espíndola Freire Maia",
+          "title":"System Support for Self-Adaptive Cyber-Physical Systems.",
+          "date":"02 de outubro de 2015",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Windson Viana de Carvalho",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Danielo Gonçalves Gomes",
+                "organization":"UFC"
+             },
+             {
+                "name":"Elias Procópio Duarte Júnior",
+                "organization":"UFPR"
+             },
+             {
+                "name":"Markus Endler",
+                "organization":"PUC/RJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Teófilo Bezerra Dutra",
+          "title":"Gradient-Based Steering for Vision-Based Crowd Simulation Algorithms",
+          "date":"16 de junho de 2015",
+          "advisor":"Joaquim Bento Cavalcante Neto",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Julien Pettré",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Soraia Raupp Musse",
+                "organization":"PUC/RS"
+             },
+             {
+                "name":"Emanuele Marques dos Santos",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Markos Oliveira Freitas",
+          "title":"Geração em Paralelo de Malhas Tetraédricas com Fraturas por Decomposição Espacial Binária",
+          "date":"08 de maio de 2015",
+          "advisor":"Joaquim Bento Cavalcante Neto",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Andrés Maués Brabo Pereira",
+                "organization":"UFF"
+             },
+             {
+                "name":"Luiz Fernando Campos Ramos Martha",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Francisco Heron de Carvalho Junior",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Marília Soares Mendes",
+          "title":"MALTU - Modelo de Avaliação da Linguagem Textual do Usuário a partir de Postagens em Sistemas Sociais",
+          "date":"25 de fevereiro de 2015",
+          "advisor":"Miguel Franklin de Castro",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Miguel Franklin de Castro",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Jaime Hernán Sanchez Ilabaca",
+                "organization":"U. Chile/Chile"
+             },
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Andreia Maria Libório",
+                "organization":"UFC/QUIXADÁ"
+             },
+             {
+                "name":"Maria Elizabeth Sucupira Furtado",
+                "organization":"UNIFOR"
+             },
+             {
+                "name":"Vládia Célia Monteiro Pinheiro",
+                "organization":"UNIFOR"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Fernando Parente Garcia",
+          "title":"EPMOSt: Um Sistema de Monitoramento Passivo Energeticamente Eficiente para Redes de Sensores Sem Fio",
+          "date":"26 de novembro de 2014",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Antonio Alfredo Ferreira Loureiro",
+                "organization":"UFMG"
+             },
+             {
+                "name":"Ângelo Roncalli Alencar Brayner",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Danielo Gonçalves Gomes",
+                "organization":"UFC"
+             },
+             {
+                "name":"Miguel Franklin de Castro",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Henrique Sérgio Lima Pequeno",
+          "title":"Digital Class: Um Modelo para a Criação de Cursos no Paradigma de Ensino Híbrido.",
+          "date":"31 de agosto de 2017",
+          "advisor":"Miguel Franklin de Castro",
+          "coor_advisor":"José Gilvan Rodrigues Maia",
+          "examination_board":[
+             {
+                "name":"Miguel Franklin de Castro",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Gilvan Rodrigues Maia",
+                "organization":"UFC"
+             },
+             {
+                "name":"Gabriel Atoine Louis Paillard",
+                "organization":"UFC"
+             },
+             {
+                "name":"Ernesto Trajano de Lima Neto",
+                "organization":"UFC"
+             },
+             {
+                "name":"Cidcley Teixeira de Souza",
+                "organization":"IFCE"
+             },
+             {
+                "name":"Francisco Milton Mendes Neto",
+                "organization":"UFERSA"
+             },
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Artur Pereira Sampaio",
+          "title":"Temporally Coherent Sculpture of Composite Objects.",
+          "date":"29 de agosto de 2017",
+          "advisor":"Creto Augusto Vidal",
+          "coor_advisor":"Raphaelle Chaine",
+          "examination_board":[
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Raphaelle Chaine",
+                "organization":"Lyon 1/França  a"
+             },
+             {
+                "name":"Emanuele Marques dos Santos",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Esdras Soares de Medeiros Filho",
+                "organization":"UFC"
+             },
+             {
+                "name":"Anselmo Cardoso de Paiva",
+                "organization":"UFMA"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Cenez Araújo de Rezende",
+          "title":"Um Arcabouço baseado em Componentes para Computação Paralela de Larga Escala sobre Grafos.",
+          "date":"29 de agosto de 2017",
+          "advisor":"Francisco Heron de Carvalho Júnior",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Francisco Heron de Carvalho Júnior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Rafael Dueire Lins",
+                "organization":"UFPE"
+             },
+             {
+                "name":"André Rauber Du Bois",
+                "organization":"UFPel"
+             },
+             {
+                "name":"José Antônio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Cláudia Linhares Sales",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Eliseu Castelo Branco Júnior",
+          "title":"Uma Estratégia para Assegurar a Confidencialidade de Dados Armazenados em Nuvem.",
+          "date":"31 de Maio de 2017",
+          "advisor":"Javam de Castro Machado",
+          "coor_advisor":"José Maria da Silva Monteiro",
+          "examination_board":[
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Fernando Antônio Mota Trinta",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Joaquim Celestino Júnior",
+                "organization":"UECE"
+             },
+             {
+                "name":"João Eduardo Ferreira",
+                "organization":"USP"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Thiago Braga Marcilon",
+          "title":"Resultados no Tempo Máximo e no Número de Envoltória nas Convexidades P3 e Geodésica.",
+          "date":"16 de fevereiro de 2017",
+          "advisor":"Rudini Menezes Sampaio",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rudini Menezes Sampaio",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Ignasi Sau Valls",
+                "organization":"LIRMM/França"
+             },
+             {
+                "name":"Jayme Luiz Szwarcfiter",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Uéverton dos Santos Souza",
+                "organization":"UFF"
+             },
+             {
+                "name":"Júlio César Silva Araújo",
+                "organization":"UFC"
+             },
+             {
+                "name":"Cláudia Linhares Sales",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Henrique Viana Oliveira",
+          "title":"Propositional Belief Merging and Distributive Justice.",
+          "date":"25 de setembro de 2018",
+          "advisor":"João Fernando Lima Alcântara",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"João Fernando Lima Alcântara",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Renata Wassermann",
+                "organization":"USP"
+             },
+             {
+                "name":"Jerusa Marchi",
+                "organization":"UFSC"
+             },
+             {
+                "name":"Paulo de Tarso Guerra Oliveira",
+                "organization":"UFC"
+             },
+             {
+                "name":"Ana Teresa de Castro Martins",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Carlos André Batista de Carvalho",
+          "title":"SCUDO: Secure CloUd storage service for Detecting viOlations of security properties in a data sharing environment.",
+          "date":"25 de setembro de 2018",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":"Miguel Franklin de Castro",
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Miguel Franklin de Castro",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Danielo Gonçalves Gomes",
+                "organization":"UFC"
+             },
+             {
+                "name":"Nazim Agoulmine",
+                "organization":"UEVE  França"
+             },
+             {
+                "name":"Elias Procópio Duarte Junior",
+                "organization":"UFPR"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Samara Martins Nascimento",
+          "title":"PIPE: Um preditor de tempos de viagem usando fluxo contínuo de trajetórias.",
+          "date":"20 de setembro de 2018",
+          "advisor":"José Antonio Fernandes de Macêdo",
+          "coor_advisor":"Javam de Castro Machado",
+          "examination_board":[
+             {
+                "name":"José Antonio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Marco Antônio Casanova",
+                "organization":"PUCRio"
+             },
+             {
+                "name":"Ticiana Linhares Coelho da Silva",
+                "organization":"UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Antônio Manoel Ribeiro de Almeida",
+          "title":"GPS2GR: Formação otimizada de comboios de veículos em redes urbanas com base em trajetórias de GPS.",
+          "date":"14 de agosto de 2018",
+          "advisor":"Javam de Castro Machado",
+          "coor_advisor":"José Antonio Fernandes Macêdo",
+          "examination_board":[
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Antonio Fernandes Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Sérgio Lifschitz",
+                "organization":"PUCRio"
+             },
+             {
+                "name":"Gerardo Valdísio Rodrigues Viana",
+                "organization":"UECE"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Ticianne de Gois Ribeiro Darin",
+          "title":"Usability scaffolding for evaluating multimodal video games for learners who are blind.",
+          "date":"05 de julho de 2018",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":"Jaime Hernán Sánchez Ilabaca",
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Jaime Hernán Sánchez Ilabaca",
+                "organization":"UChile"
+             },
+             {
+                "name":"Windson Viana de Carvalho",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Maria Elizabeth Sucupira Furtado",
+                "organization":"Unifor"
+             },
+             {
+                "name":"Leticia Lopes Leite",
+                "organization":"UnB"
+             },
+             {
+                "name":"Lotfi Bachir Merabet",
+                "organization":"Harvard"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Márcia Roberta Falcão de Farias",
+          "title":"Complexidade Descritiva da Lógica de Ponto Fixo Relacional Inflacionário.",
+          "date":"10 de junho de 2016",
+          "advisor":"Ana Teresa de Castro Martins",
+          "coor_advisor":"Francicleber Martins Ferreira",
+          "examination_board":[
+             {
+                "name":"Ana Teresa de Castro Martins",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Francicleber Martins Ferreira",
+                "organization":"UFC"
+             },
+             {
+                "name":"Edward Hermann Haeusler",
+                "organization":"PUC/Rio"
+             },
+             {
+                "name":"Ruy José Guerra Barretto de Queiroz",
+                "organization":"UFPE"
+             },
+             {
+                "name":"Pedro Porfírio Muniz Farias",
+                "organization":"UNIFOR"
+             },
+             {
+                "name":"João Fernando Lima Alcântara",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Igo Ramalho Brilhante",
+          "title":"Recommending Places based on the Wisdom-of-the-Crowd.",
+          "date":"10 de junho de 2016",
+          "advisor":"José Antônio Fernandes de Macêdo",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"José Antônio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Chiara Renso",
+                "organization":"ISTI/Itália"
+             },
+             {
+                "name":"Marco Antônio Casanova",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Vânia Bogorny",
+                "organization":"UFSC"
+             },
+             {
+                "name":"João Paulo Pordeus Gomes",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Edgar Marçal de Barros Filho",
+          "title":"UFC Inventor: Um Ambiente para Modelagem e Geração de Aplicações para Aulas de Campo Ubíquas.",
+          "date":"29 de abril de 2016",
+          "advisor":"Rossana Maria da Castro Andrade",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rossana Maria da Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Armando Valente",
+                "organization":"UNICAMP"
+             },
+             {
+                "name":"José Valdeni de Lima",
+                "organization":"UFRGS"
+             },
+             {
+                "name":"José Aires de Castro Filho",
+                "organization":"UFC"
+             },
+             {
+                "name":"Francisco Heron de Carvalho Junior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Windson Viana de Carvalho",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Wladimir Araújo Tavares",
+          "title":"Algoritmos Exatos para o Problema da Clique Máxima Ponderada.",
+          "date":"06 de abril de 2016.",
+          "advisor":"Manoel Bezerra Campêlo Neto",
+          "coor_advisor":"Carlos Diego Rodrigues",
+          "examination_board":[
+             {
+                "name":"Manoel Bezerra Campêlo Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Philippe Michelon",
+                "organization":"UNIVAVIGNON/França - Cotutela"
+             },
+             {
+                "name":"Carlos Diego Rodrigues",
+                "organization":"DEMA/UFC"
+             },
+             {
+                "name":"Thierry Mautor",
+                "organization":"UVSQ/França"
+             },
+             {
+                "name":"Haroldo Gambini Santos",
+                "organization":"UFOP"
+             },
+             {
+                "name":"Ricardo Cordeiro Correa",
+                "organization":"UFRRJ"
+             },
+             {
+                "name":"Rudini Menezes Sampaio",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Jefferson de Carvalho Silva",
+          "title":"Um Arcabouço para a Construção de Aplicações Baseadas em Componentes sobre uma Plataforma de Nuvem Computacional para Serviços de Computação de Alto Desempenho.",
+          "date":"29 de fevereiro de 2016.",
+          "advisor":"Francisco Heron de Carvalho Junior",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Francisco Heron de Carvalho Junior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Antônio Tadeu de Azevedo Gomes",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Luís Manuel Dias Coelho Soares Barbosa",
+                "organization":"UMinho/Portugal"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Pablo Mayckon  Silva Farias",
+          "title":"TÍTULO:O Problema de Ordenação de Rodadas e Problemas de Otimização Associados",
+          "date":"01 de novembro de 2013",
+          "advisor":"Ricardo Cordeiro Corrêa",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Ricardo Cordeiro Corrêa",
+                "organization":"UFC"
+             },
+             {
+                "name":"Fábio Protti",
+                "organization":"UFF"
+             },
+             {
+                "name":"Thiago Ferreira de Noronha",
+                "organization":"UFMG"
+             },
+             {
+                "name":"Críston Pereira de Souza",
+                "organization":"UFC/Quixadá"
+             },
+             {
+                "name":"Manoel Bezerra Campêlo Neto",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Lincoln Souza Rocha",
+          "title":"CAEHV: Um Método para Verificação de Modelos do Tratamento de Exceção Sensível ao Contexto em SistemasUbíquos",
+          "date":"08 de março de 2013",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Francisco Heron de Cavalho Junior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Antônio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Alessandro Fabricio Garcia",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Cláudia Maria Lima Werner",
+                "organization":"UFRJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Helder Pereira Borges",
+          "title":"Uma Abordagem para Aquisição de Serviços em Nuvens,Baseada nos Requisitos do Usuário,Criação Dinâmica dos Serviços e Definição de Atributos de Qualidades.",
+          "date":"04 de março de 2013",
+          "advisor":"José Neuman de Souza",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Javam de Castro Machadol",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Antonio Roberto Mury",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Bruno Richard Schulze",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Stênio Flávio de Lacerda Fernandes",
+                "organization":"UFPE"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Flávio Rubens de Carvalho Sousa",
+          "title":"RepliC: Replicação Elástica de Banco de Dados Multi-Inquilino em Nuvem com Qualidade de Serviço",
+          "date":"Teses de Doutorado 15/01/2013",
+          "advisor":"Javam de Castro Machado",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Dr José Antonio Fernandes de Macedo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Marta Lima de Queirós Mattoso",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Carmem Satie Hara",
+                "organization":"UFPR"
+             },
+             {
+                "name":"",
+                "organization":"PUC/RJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Francicleber Martins Ferreira",
+          "title":"Titulo: Expressividade e Complexidade em Lógicas Preferenciais, Híbridas e de Grau Limitado",
+          "date":"07 de dezembro de 2012",
+          "advisor":"Ana Teresa de Martins",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Ana Teresa de Martins",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Marcelino Cavalcante Pequeno",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Carlos Eduardo Fisch de Brito",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Erich Grädel",
+                "organization":"RWTH Aachen/Alemanha"
+             },
+             {
+                "name":"Edward Hermann Hausler",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Mario Roberto Folhadela Benevides",
+                "organization":"UFRJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Nicolas de Almeida Martins",
+          "title":"Jogos de Perseguição em Grafos e Coloração Localmente Identificável",
+          "date":"22 de janeiro de 2018",
+          "advisor":"Rudini Menezes Sampaio",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rudini Menezes Sampaio",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Sulamita Klein",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Ana Shirley Ferreira da Silva",
+                "organization":"UFC"
+             },
+             {
+                "name":"Ronan Pardo Soares",
+                "organization":"UFC"
+             },
+             {
+                "name":"Ana Karolinna Maia de Oliveira",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Tiago Carneiro Pessoa",
+          "title":"GPU-Based Backtracking Strategies for Solving Permutation Combinatorial Problems",
+          "date":"5 de Dezembro de 2017",
+          "advisor":"Francisco Heron de Carvalho Junior",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Francisco Heron de Carvalho Junior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Nouredine Melab",
+                "organization":"Université Lille 1, França"
+             },
+             {
+                "name":"Igor Machado Coelho",
+                "organization":"UERJ"
+             },
+             {
+                "name":"Albert Einstein Fernandes Muritiba",
+                "organization":"UFC"
+             },
+             {
+                "name":"Rafael Castro de Andrade",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Ismayle de Sousa Santos",
+          "title":"TestDAS: Testing Method for Dynamically Adaptive Systems",
+          "date":"23 de novembro de 2017",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":"Pedro de Alcântara dos Santos Neto",
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Pedro de Alcântara dos Santos Neto",
+                "organization":"UFPI"
+             },
+             {
+                "name":"Guilherme Horta Travassos",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Jerffeson Teixeira de Souza",
+                "organization":"UECE"
+             },
+             {
+                "name":"Lincoln de Souza Rocha",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Eduardo Santana de Almeida",
+                "organization":"UFBA"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Allberson Bruno de Oliveira Dantas",
+          "title":"Certificação de Componentes em uma Plataforma de Nuvens Computacionais para Serviços de Computação de Alto Desempenho.",
+          "date":"18 de outubro de 2017",
+          "advisor":"Francisco Heron de Carvalho Júnior",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Francisco Heron de Carvalho Júnior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Luís manuel Dias Coelho Soares da Rocha",
+                "organization":"UMinho/Portugal"
+             },
+             {
+                "name":"Ricardo Massa Ferreira Lima",
+                "organization":"UFPE"
+             },
+             {
+                "name":"Lincoln Souza Rocha",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Pablo Mayckon Silva Farias",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"João Marcelo Uchôa de Alencar",
+          "title":"Reconfiguração Elástica de Componentes Paralelos sobre Nuvens de Serviços de Computação de Alto Desempenho.",
+          "date":"31 de agosto de 2017",
+          "advisor":"Francisco Heron de Carvalho Júnior",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Francisco Heron de Carvalho Júnior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Antônio Tadeu Azevedo Gomes",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Paulo Henrique Mendes Maia",
+                "organization":"UECE"
+             },
+             {
+                "name":"Lincoln Souza Rocha",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Emanuel Ferreira Coutinho",
+          "title":"FOLE: Um Framework Conceitual para Avaliação de Desempenho da Elasticidade em Ambientes de Computação em Nuvem",
+          "date":"03 de novembro de 2014",
+          "advisor":"José Neuman de Souza",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Fernando Antonio Mota Trinta",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Danielo Gonçalves Gomes",
+                "organization":"UFC"
+             },
+             {
+                "name":"Stênio Flávio de Lacerda Fernandes",
+                "organization":"UFPE"
+             },
+             {
+                "name":"Bruno Richard Schulze",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Gabriel Antoine Louis Paillard",
+                "organization":"UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Fábio Carlos Sousa Dias",
+          "title":"TÍTULO: Problema de Árvore Geradora Mínima com Restrição de Grau Mínimo e Centrais e Terminais Fixos",
+          "date":"31 de julho de 2014",
+          "advisor":"Manoel Bezerra Campelo Neto",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Manoel Bezerra Campelo Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Rafael Castro de Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Criston Pereira de Sousa",
+                "organization":"UFC/Quixadá"
+             },
+             {
+                "name":"Luiz Satoru Ochhi",
+                "organization":"UFF"
+             },
+             {
+                "name":"Maurício Cardoso de Souza",
+                "organization":"UFMG"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Leonardo Oliveira Moreira",
+          "title":"TÍTULO: Uma Abordagem para Qualidade de Serviço em Bancos de Dados Multi-Inquilinos em Nuvem",
+          "date":"25 de julho de 2014",
+          "advisor":"Javam de Castro Machado",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Flávio Rubens de Carvalho Sousa",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Fernanda Araújo Baião Amorim",
+                "organization":"UNIRIO"
+             },
+             {
+                "name":"Sérgio Lifschitz",
+                "organization":"PUC/RJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Yuri Lenon Barbosa Nogueira",
+          "title":"TÍTULO: Integração Mente a Ambiente para a Geração de Comportamentos Emergentes em Personagens Virtuais Autônomos através da Evolução de Redes Neurais Artificiais",
+          "date":"28 de abril de 2014",
+          "advisor":"Creto Augusto Vidal",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Carlos Eduardo Fisch de Brito",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Soraia Raupp Musse",
+                "organization":"PUC/RS"
+             },
+             {
+                "name":"Luiz Marcos Garcia Gonçalves",
+                "organization":"UFRN"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Ronan Pardo Soares",
+          "title":"TÍTULO:Pursuit-Evasion, Decompositions and Convexity on Graph",
+          "date":"08 de novembro de 2013",
+          "advisor":"Cládia Linhares Sales",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Cládia Linhares Sales",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"David Coudert",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"David Ilcinkas",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Nicolas Nisse",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Ioan Todinca",
+                "organization":"Université d´Orleans/França"
+             },
+             {
+                "name":"Dimitrios M. Thilikos",
+                "organization":"University of Athen/Grécia"
+             },
+             {
+                "name":"Rudini Menezes Sampaio",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Ticiana Linhares Coelho da Silva",
+          "title":"Online Clustering of Trajectory Data Stream.",
+          "date":"20 de dezembro de 2016",
+          "advisor":"José Antônio Fernandes de Macêdo",
+          "coor_advisor":"Karine Bennis Zeitouni",
+          "examination_board":[
+             {
+                "name":"José Antônio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Karine Bennis Zeitouni",
+                "organization":"UVSQ/França  a"
+             },
+             {
+                "name":"João Eduardo Ferreira",
+                "organization":"USP"
+             },
+             {
+                "name":"Marco Antônio Casanova",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Francesco Corona",
+                "organization":"UFC"
+             },
+             {
+                "name":"João Paulo Pordeus Gomes",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Paulo Antonio Leal Rego",
+          "title":"Applying Smart Decisions, Adaptive Monitoring and Mobility Support for Enhancing Offloading Systems.",
+          "date":"02 de dezembro de 2016",
+          "advisor":"José Neuman de Souza",
+          "coor_advisor":"Fernando Antonio Mota Trinta",
+          "examination_board":[
+             {
+                "name":"José Neuman de Souza",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Masum Z Hasan",
+                "organization":"CISCO"
+             },
+             {
+                "name":"Fernando Antonio Mota Trinta",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Paulo Romero Martins Maciel",
+                "organization":"UFPE"
+             },
+             {
+                "name":"Javam de Castro Machado",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Rafael Siqueira Telles Vieira",
+          "title":"Uso de Subárvores Especializadas para Obtenção de Desfazer e Tutorial Localizados em Sistemas de Controle de Versão de Modelos 3D.",
+          "date":"30 de agosto de 2016",
+          "advisor":"Joaquim Bento Cavalcante Neto",
+          "coor_advisor":"Creto Augusto Vidal",
+          "examination_board":[
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"William Wagner Matos Lira",
+                "organization":"UFAL"
+             },
+             {
+                "name":"Evandro Parente Júnior",
+                "organization":"UFC"
+             },
+             {
+                "name":"Emanuele Marques dos Santos",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Vinícius Pires de Moura Freire",
+          "title":"NACluster: Resolvendo Entidades em Larga Escala a partir de Múltiplos Catálogos de Astronomia.",
+          "date":"30 de agosto de 2016",
+          "advisor":"José Antônio Fernandes de Macêdo",
+          "coor_advisor":"Fábio André Machado Porto",
+          "examination_board":[
+             {
+                "name":"José Antônio Fernandes de Macêdo",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Fábio André Machado Porto",
+                "organization":"LNCC"
+             },
+             {
+                "name":"Marco Antônio Casanova",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Ricardo Lourenço Correia Ogando",
+                "organization":"ON"
+             },
+             {
+                "name":"Vânia Maria Ponte Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Carla Ilane Moreira Bezerra",
+          "title":"Medidas para Avaliação de Manutenibilidade de Modelos de Features de Linhas de Produto de Software Tradicionais e Dinâmicas.",
+          "date":"26 de agosto de 2016",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":"José Maria da Silva Monteiro Filho",
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"José Maria da Silva Monteiro Filho",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Ana Regina Cavalcanti da Rocha",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Rosana Teresinha Vaccare Braga",
+                "organization":"USP"
+             },
+             {
+                "name":"Adriano Bessa Albuquerque",
+                "organization":"UNIFOR"
+             },
+             {
+                "name":"João Paulo Pordeus Gomes",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Alexandre Silva Cavalcante",
+          "title":"Sistemas Esquemáticos de Dedução Natural - Um Estudo Prova-Teórico. Banca:",
+          "date":"12 de março de 2010",
+          "advisor":"Dr Ana Teresa de Castro Martins",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Dr Ana Teresa de Castro Martins",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Marcelino Cavalcante Pequeno",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Luiz Carlos Pereira",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Ruy de Queiroz",
+                "organization":"UFPE"
+             },
+             {
+                "name":"Mário Roberto Folhadela Benevides",
+                "organization":"UFRJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Vládia Célia Monteiro Pinheiro",
+          "title":"SIM: Um Modelo Semântico Inferencialista para Expressão e Raciocínio em Sistemas de Linguagem Natural",
+          "date":"12 de março de 2010",
+          "advisor":"Tarcisio Haroldo Cavalcante Pequeno",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Tarcisio Haroldo Cavalcante Pequeno",
+                "organization":"UFC"
+             },
+             {
+                "name":"João José Vasco Peixoto Furtado",
+                "organization":"UNIFOR"
+             },
+             {
+                "name":"Marcelino Cavalcante Pequeno",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Clarisse Sieckenius de Souza",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Dr Helena Franco Martins",
+                "organization":"PUC/RJ"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Gerardo Valdisio Rodrigues Viana",
+          "title":"Técnicas para Construção de Árvores Filogenéticas",
+          "date":"27 de abril de 2007",
+          "advisor":"Fernando Antonio de Carvalho Gomes",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Fernando Antonio de Carvalho Gomes",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Nelson Maculan Filho",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Carlos Eduardo Ferreira",
+                "organization":"IME"
+             },
+             {
+                "name":"Ruy Luiz Milidiú",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Thalles Barbosa Grangeiro",
+                "organization":"UFC"
+             },
+             {
+                "name":"Tarcísio Haroldo Cavalcante Pequeno",
+                "organization":"UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Júlio César Silva Araújo",
+          "title":"Coloração e Convexidade em Grafos",
+          "date":"13 de setembro de 2012",
+          "advisor":"Cláudia Linhares Sales",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Cláudia Linhares Sales",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Jean-Claude Bermond",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Frédéric Giroire",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Cristophe Paul",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Frédéric Maffray",
+                "organization":"INRIA/França"
+             },
+             {
+                "name":"Ricardo Cordeiro Corrêa",
+                "organization":"DC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Fabiana Gomes Marinho",
+          "title":"PRECISE - Um Processo de Verificação Formal para Modelos de CaracterístIcas de aplicações Móveis e Sensíveis ao Contexto",
+          "date":"27 de agosto de 2012",
+          "advisor":"Rossana Maria de Castro Andrade",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Rossana Maria de Castro Andrade",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Cláudia Maria Lima Werner",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Eduardo Santana de Almeida",
+                "organization":"UFBA"
+             },
+             {
+                "name":"Francisco Heron de Carvalho Junior",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Vânia Maria Ponte Vidal",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Rubens Fernandes Nunes",
+          "title":"Usando Vibrações Naturais na Descrição e no Controle de Locomoções Físicamente Simuladas de Personagens Articulados Arbitrários",
+          "date":"30 de julho de 2012",
+          "advisor":"Joaquim Bento Cavalcante Neto",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Luiz Fernando Campos Ramos Martha",
+                "organization":"PUC/RJ"
+             },
+             {
+                "name":"Luciana Porcher Nedel",
+                "organization":"UFRGS"
+             },
+             {
+                "name":"Murilo Pereira de Almeida",
+                "organization":"UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Roberto Cesar Cavalcante Vieira",
+          "title":"Um Ambiente para Processamento de Consultas Federadas em Linked Data Mashups",
+          "date":"19 de junho de 2012",
+          "advisor":"Creto Augusto Vidal",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Creto Augusto Vidal",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Joaquim Bento Cavalcante Neto",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Anselmo Cardoso de Paiva",
+                "organization":"UFMA"
+             },
+             {
+                "name":"Fátima de Lourdes Cardoso de Paiva",
+                "organization":"USP"
+             },
+             {
+                "name":"Emanuele Marques dos Santos",
+                "organization":"MDCC/UFC"
+             }
+          ],
+          "degree":"doctor"
+       },
+       {
+          "name":"Victor Almeida Campos",
+          "title":"Parâmetros de Coloração de Vértices Baseados em Algoritmos de Coloração",
+          "date":"28 de setembro de 2011",
+          "advisor":"Dr Cláudia Linhares Sales",
+          "coor_advisor":null,
+          "examination_board":[
+             {
+                "name":"Dr Cláudia Linhares Sales",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Rudini Menezes Sampaio",
+                "organization":"MDCC/UFC"
+             },
+             {
+                "name":"Jayme Luiz Szwarcfizter",
+                "organization":"UFRJ"
+             },
+             {
+                "name":"Cláudio Lucchesi",
+                "organization":"UFMS"
+             },
+             {
+                "name":"Frederic Havet",
+                "organization":"INRIA/França"
+             }
+          ],
+          "degree":"doctor"
+       }
+    ]
+ }
