@@ -230,8 +230,8 @@
           "name":"Carlos Diego Rodrigues",
           "title":"Abordagens Híbridas para Problemas de Programação Inteira da Teoria e da Prática Banda Examinadora:",
           "date":"11 de agosto de 2010",
-          "advisor":null,
-          "coor_advisor":null,
+          "advisor":"Manoel Bezerra Campêlo Neto",
+          "coor_advisor":"Philippe Michelon",
           "examination_board":[
              {
                 "name":"Manoel Bezerra Campêlo Neto",
