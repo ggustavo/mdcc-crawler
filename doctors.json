@@ -16,7 +16,7 @@
                 "organization":"UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              },
              {
@@ -136,11 +136,11 @@
           "name":"Regis Pires Magalhães",
           "title":"Speed prediction applied to dynamic traffic sensors and road networks.",
           "date":"27 de setembro de 2018",
-          "advisor":"José Antonio Fernandes de Macêdo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -196,11 +196,11 @@
           "name":"Napoleão Vieira Nepomuceno",
           "title":"Otimização em Redes de Backhaul sem Fio",
           "date":"17 de dezembro de 2010",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":"David Coudert",
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -234,11 +234,11 @@
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Ricardo Cordeiro  Corrêa",
+                "name":"Ricardo Cordeiro  Corrêa",
                 "organization":"MDCC/UFC"
              },
              {
@@ -265,7 +265,7 @@
           "degree":"doctor"
        },
        {
-          "name":"Jose Gilvan Rodrigues Maia",
+          "name":"José Gilvan Rodrigues Maia",
           "title":"Detecção e Reconhecimento de Objetos usando Descritores Locais",
           "date":"20 de maio de 2010",
           "advisor":"Fernando Antônio de Carvalho Gomes",
@@ -314,7 +314,7 @@
                 "organization":"UFF"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -408,7 +408,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -585,14 +585,14 @@
           "title":"Uma Estratégia para Assegurar a Confidencialidade de Dados Armazenados em Nuvem.",
           "date":"31 de Maio de 2017",
           "advisor":"Javam de Castro Machado",
-          "coor_advisor":"José Maria da Silva Monteiro",
+          "coor_advisor":"José Maria da Silva Monteiro Filho",
           "examination_board":[
              {
                 "name":"Javam de Castro Machado",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro",
+                "name":"José Maria da Silva Monteiro Filho",
                 "organization":"MDCC/UFC"
              },
              {
@@ -712,11 +712,11 @@
           "name":"Samara Martins Nascimento",
           "title":"PIPE: Um preditor de tempos de viagem usando fluxo contínuo de trajetórias.",
           "date":"20 de setembro de 2018",
-          "advisor":"José Antonio Fernandes de Macêdo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":"Javam de Castro Machado",
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -732,7 +732,7 @@
                 "organization":"UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -743,14 +743,14 @@
           "title":"GPS2GR: Formação otimizada de comboios de veículos em redes urbanas com base em trajetórias de GPS.",
           "date":"14 de agosto de 2018",
           "advisor":"Javam de Castro Machado",
-          "coor_advisor":"José Antonio Fernandes Macêdo",
+          "coor_advisor":"José Antônio Fernandes de Macêdo",
           "examination_board":[
              {
                 "name":"Javam de Castro Machado",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -762,7 +762,7 @@
                 "organization":"UECE"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -894,7 +894,7 @@
                 "organization":"UFC"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -946,15 +946,15 @@
           "name":"Jefferson de Carvalho Silva",
           "title":"Um Arcabouço para a Construção de Aplicações Baseadas em Componentes sobre uma Plataforma de Nuvem Computacional para Serviços de Computação de Alto Desempenho.",
           "date":"29 de fevereiro de 2016.",
-          "advisor":"Francisco Heron de Carvalho Junior",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1100,11 +1100,11 @@
           "name":"Francicleber Martins Ferreira",
           "title":"Titulo: Expressividade e Complexidade em Lógicas Preferenciais, Híbridas e de Grau Limitado",
           "date":"07 de dezembro de 2012",
-          "advisor":"Ana Teresa de Martins",
+          "advisor":"Ana Teresa de Castro Martins",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Ana Teresa de Martins",
+                "name":"Ana Teresa de Castro Martins",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1164,11 +1164,11 @@
           "name":"Tiago Carneiro Pessoa",
           "title":"GPU-Based Backtracking Strategies for Solving Permutation Combinatorial Problems",
           "date":"5 de Dezembro de 2017",
-          "advisor":"Francisco Heron de Carvalho Junior",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1322,11 +1322,11 @@
           "name":"Fábio Carlos Sousa Dias",
           "title":"TÍTULO: Problema de Árvore Geradora Mínima com Restrição de Grau Mínimo e Centrais e Terminais Fixos",
           "date":"31 de julho de 2014",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1360,7 +1360,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1412,11 +1412,11 @@
           "name":"Ronan Pardo Soares",
           "title":"TÍTULO:Pursuit-Evasion, Decompositions and Convexity on Graph",
           "date":"08 de novembro de 2013",
-          "advisor":"Cládia Linhares Sales",
+          "advisor":"Cláudia Linhares Sales",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Cládia Linhares Sales",
+                "name":"Cláudia Linhares Sales",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1568,7 +1568,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -1579,14 +1579,14 @@
           "title":"Medidas para Avaliação de Manutenibilidade de Modelos de Features de Linhas de Produto de Software Tradicionais e Dinâmicas.",
           "date":"26 de agosto de 2016",
           "advisor":"Rossana Maria de Castro Andrade",
-          "coor_advisor":"José Maria da Silva Monteiro Filho",
+          "coor_advisor":"José Maria da Silva Monteiro Filho Filho",
           "examination_board":[
              {
                 "name":"Rossana Maria de Castro Andrade",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Maria da Silva Monteiro Filho",
+                "name":"José Maria da Silva Monteiro Filho Filho",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1612,11 +1612,11 @@
           "name":"Alexandre Silva Cavalcante",
           "title":"Sistemas Esquemáticos de Dedução Natural - Um Estudo Prova-Teórico. Banca:",
           "date":"12 de março de 2010",
-          "advisor":"Dr Ana Teresa de Castro Martins",
+          "advisor":"Ana Teresa de Castro Martins",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Ana Teresa de Castro Martins",
+                "name":"Ana Teresa de Castro Martins",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1672,11 +1672,11 @@
           "name":"Gerardo Valdisio Rodrigues Viana",
           "title":"Técnicas para Construção de Árvores Filogenéticas",
           "date":"27 de abril de 2007",
-          "advisor":"Fernando Antonio de Carvalho Gomes",
+          "advisor":"Fernando Antônio de Carvalho Gomes",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Fernando Antonio de Carvalho Gomes",
+                "name":"Fernando Antônio de Carvalho Gomes",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1756,7 +1756,7 @@
                 "organization":"UFBA"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1830,11 +1830,11 @@
           "name":"Victor Almeida Campos",
           "title":"Parâmetros de Coloração de Vértices Baseados em Algoritmos de Coloração",
           "date":"28 de setembro de 2011",
-          "advisor":"Dr Cláudia Linhares Sales",
+          "advisor":"Cláudia Linhares Sales",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Cláudia Linhares Sales",
+                "name":"Cláudia Linhares Sales",
                 "organization":"MDCC/UFC"
              },
              {
