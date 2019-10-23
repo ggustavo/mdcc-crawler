@@ -329,7 +329,7 @@
              },
              {
                 "name":"Carina Teixeira de Oliveira",
-                "organization":"IFCE  a"
+                "organization":"IFCE "
              },
              {
                 "name":"Miguel Franklin de Castro",
@@ -359,7 +359,7 @@
              },
              {
                 "name":"Vânia Maria Ponte Vidal",
-                "organization":"MDCC/UFC  a"
+                "organization":"MDCC/UFC "
              },
              {
                 "name":"Fábio André Machado Porto",
@@ -407,7 +407,7 @@
              },
              {
                 "name":"Ticianne de Góis Ribeiro Darin",
-                "organization":"UFC  a"
+                "organization":"UFC "
              },
              {
                 "name":"Windson Viana de Carvalho",
@@ -432,11 +432,11 @@
           "name":"Emanuel Eduardo da Silva Oliveira",
           "title":"TrajectMe: Planning Sightseeing Tours with Hotel Selection from Trajectory Data.",
           "date":"30 de novembro de 2018",
-          "advisor":"José Antonio Fernandes de Macêdo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":"Igo Ramalho Brilhante",
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -518,11 +518,11 @@
           "name":"João Holanda Freires Junior",
           "title":"SumOpinions: Sumarização automática de opiniões sobre pontos turísticos.",
           "date":"29 de novembro de 2018",
-          "advisor":"José Antonio Fernandes de Macêdo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":"Igo Ramalho Brilhante",
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -665,10 +665,10 @@
              },
              {
                 "name":"Valéria Magalhães Pequeno",
-                "organization":"INESCID/Portugal - a"
+                "organization":"INESCID/Portugal -"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -787,7 +787,7 @@
              },
              {
                 "name":"Cláudia Linhares Sales",
-                "organization":"MDCC/UFC  a"
+                "organization":"MDCC/UFC "
              },
              {
                 "name":"Manoel Bezerra Campêlo Neto",
@@ -843,7 +843,7 @@
              },
              {
                 "name":"Andreia Libório Sampaio",
-                "organization":"UFC  a"
+                "organization":"UFC "
              },
              {
                 "name":"Valéria Lélli Leitão Dantas",
@@ -899,7 +899,7 @@
              },
              {
                 "name":"Rossana Maria de Castro Andrade",
-                "organization":"MDCC/UFC  a"
+                "organization":"MDCC/UFC "
              },
              {
                 "name":"Marcio Espíndola Freire Maia",
@@ -980,11 +980,11 @@
           "name":"Lana Beatriz Medeiros de Mesquita",
           "title":"Cognitive impact evaluation of multimodal interfaces for people who are blind: Quali-quantitative review and guidelines.",
           "date":"16 de novembro de 2018",
-          "advisor":"José Antonio Fernandes de Macêdo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":"Jaime Hernán Sánchez Ilabaca",
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1089,7 +1089,7 @@
              },
              {
                 "name":"Carla Ilane Moreira Bezerra",
-                "organization":"UFC  a"
+                "organization":"UFC "
              },
              {
                 "name":"João Bosco Ferreira Filho",
@@ -1123,7 +1123,7 @@
              },
              {
                 "name":"Emanuele Marques dos Santos",
-                "organization":"MDCC/UFC  a"
+                "organization":"MDCC/UFC "
              },
              {
                 "name":"João Fernando Lima Alcântara",
@@ -1850,11 +1850,11 @@
           "name":"Eliezer Tomé de Paula Neto",
           "title":"Escalonamento UET-UCT de Tarefas em Múltiplos Processadores",
           "date":"31 de outubro de 2014",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1936,7 +1936,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2014,7 +2014,7 @@
                 "organization":"UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2074,7 +2074,7 @@
                 "organization":"UNIFOR"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2096,7 +2096,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2300,7 +2300,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -2448,7 +2448,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2508,7 +2508,7 @@
                 "organization":"UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -2518,11 +2518,11 @@
           "name":"José Wellington Franco da Silva",
           "title":"Aquisição de Conhecimento de Senso Comum e Inferencialista para Sistemas de Processamento de Linguagem Natural",
           "date":"30 de agosto de 2013",
-          "advisor":"Marcelino Calvacante Pequeno",
+          "advisor":"Marcelino Cavalcante Pequeno",
           "coor_advisor":"Vládia Célia Monteiro Pinheiro",
           "examination_board":[
              {
-                "name":"Marcelino Calvacante Pequeno",
+                "name":"Marcelino Cavalcante Pequeno",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2531,7 +2531,7 @@
              },
              {
                 "name":"Vládia Célia Monteiro Pinheiro",
-                "organization":"UNIFOR  a"
+                "organization":"UNIFOR "
              },
              {
                 "name":"Carlos Eduardo Fish de Brito",
@@ -2582,7 +2582,7 @@
                 "organization":"UNICAMP"
              },
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDDC/UFC"
              },
              {
@@ -2622,11 +2622,11 @@
           "name":"David Araújo Abreu",
           "title":"MyDBaaS: Um Framework para o Monitoramento de Serviços de Banco de Dados em Nuvem",
           "date":"18 de setembo de 2013",
-          "advisor":"José Antonio Fernandes de Macedo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2712,7 +2712,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2846,11 +2846,11 @@
           "name":"Tatiane Fernandes Figueiredo",
           "title":"Problema de Formação de Equipes Sociotécnicas: Complexidade, Formulações Matemáticas e Resultados Computacionais",
           "date":"14 de agosto de 2014",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3144,11 +3144,11 @@
           "name":"Macedo Sousa Maia",
           "title":"ASBJoin: Uma Estratégia Adaptativa para Consultas Envolvendo Operadores de Junção em Linked Data",
           "date":"30 de outubro de 2013",
-          "advisor":"José Antonio Fernandes de Macedo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3266,11 +3266,11 @@
           "name":"Igo Ramalho Brilhante",
           "title":"Mobility Data Analysis under a Complex Network Perspective: From Interactions Among Points of Interest.",
           "date":"10 de fevereiro de 2012",
-          "advisor":"José Antônio Fernandes de Macedo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antônio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC     Marco Antonio Casanova"
              },
              {
@@ -3308,7 +3308,7 @@
        },
        {
           "name":"Ismayle de Sousa Santos",
-          "title":"Um  Ambiente para  Geração de Cenários de Testes para Linhas de Produtos de Software Sensíveis ao Contexto.",
+          "title":"Um  Ambiente para  Geração de Cenários de Testes para Linhas de Produtos de Software Sensíveis ao Contexto.",
           "date":"04 de março de 2013",
           "advisor":"Rossana Maria de Castro Andrade",
           "coor_advisor":null,
@@ -3322,11 +3322,11 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Pedro  de  Alcântara dos Santos Neto",
+                "name":"Pedro  de  Alcântara dos Santos Neto",
                 "organization":"UFPI"
              },
              {
-                "name":"Sérgio Castelo  Branco  Soares",
+                "name":"Sérgio Castelo  Branco  Soares",
                 "organization":"UFPE"
              }
           ],
@@ -3410,11 +3410,11 @@
           "name":"Lívia Almada Cruz",
           "title":"Consultas kNN em Redes Dependentes do Tempo",
           "date":"21 de fevereiro de 2013",
-          "advisor":"José Antonio Fernandes de Macedo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3470,7 +3470,7 @@
                 "organization":"LNCC"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3550,11 +3550,11 @@
           "name":"Anderson Boettge Pinheiro",
           "title":"Abstrações Linguísticas para Programação de Propósito Geral sobre Aceleradores Computacionais Baseados em GPU",
           "date":"22 de maio de 2013",
-          "advisor":"Francisco Heron de Carvalho Gomes",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Gomes",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3576,11 +3576,11 @@
           "name":"Ângela Maria Alves Pinheiro",
           "title":"Ontology Management Tool – Uma Ferramenta para Gerenciamento de Ontologias Como Teorias Lógicas.",
           "date":"05 de abril de 2013",
-          "advisor":"José Antonio Fernandes de Macedo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3712,11 +3712,11 @@
           "name":"Juliano Efson Norberto Sales",
           "title":"Coordenação e Reconfiguração Dinâmica de Componentes em uma Plataforma de Computação Paralela.",
           "date":"30 de novembro de 2012",
-          "advisor":"Francisco Heron de Carvalho Junior",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3738,11 +3738,11 @@
           "name":"Diego Victor Simões de Sousa",
           "title":"Realizando Consultas em Trajetórias Semânticas Utilizando uma Abordagem Baseada em Verificação de Modelos.",
           "date":"29 de novembro de 2012.",
-          "advisor":"José Antonio Fernandes de Macedo",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3816,11 +3816,11 @@
           "name":"Thiago Braga Marcilon",
           "title":"Contratos Formais para Derivação e Verificação de Componentes Paralelos",
           "date":"20 de setembro de 2012",
-          "advisor":"Francisco Heron de Carvalho Junior",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -3923,12 +3923,12 @@
        {
           "name":"Ticiana Linhares Coelho da Silva",
           "title":"Processamento de Consultas Elástico e Não-intrusivo em Ambientes de Nuvem Considerando o SLA",
-          "date":"16  de janeiro de 2013",
-          "advisor":"José Antonio Fernandes de Macêdo",
+          "date":"16  de janeiro de 2013",
+          "advisor":"José Antônio Fernandes de Macêdo",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -4018,7 +4018,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4044,7 +4044,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4088,7 +4088,7 @@
                 "organization":"MDCC/UFC     Stênio Flavio de Lacerda Fernandes"
              },
              {
-                "name":"Dr José Neuman de Souza",
+                "name":"José Neuman de Souza",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4128,11 +4128,11 @@
           "name":"Cenez Araújo de  Rezende",
           "title":"Titulo: Avaliação de Desempenho de uma Plataforma de Componentes Paralelos",
           "date":"07 de outubro de 2011",
-          "advisor":"Francisco Heron de Carvalho Junior",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -4154,11 +4154,11 @@
           "name":"Álinson Santos Xavier",
           "title":"Titulo: Geração de Facetas para Politopos de Conjuntos Independentes",
           "date":"26 de setembro de 2011",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -4244,7 +4244,7 @@
                 "organization":"UFF"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4274,7 +4274,7 @@
        },
        {
           "name":"Adriano Tavares de Freitas",
-          "title":"Árvore de Subgradiente com Pré-Fase VNS-Lagrangeana para a  Árvore Geradora com Restrição de Grau Máximo nos Vértices",
+          "title":"Árvore de Subgradiente com Pré-Fase VNS-Lagrangeana para a  Árvore Geradora com Restrição de Grau Máximo nos Vértices",
           "date":"19 de agosto de 2011",
           "advisor":"Rafael Castro de Andrade",
           "coor_advisor":null,
@@ -4318,7 +4318,7 @@
                 "organization":"UFC/Sobral"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4405,7 +4405,7 @@
        {
           "name":"Paulo César Linhares da Silva",
           "title":"Titulo: Aplicações de Combinatória Analítica para a Contagem de Tipos Especiais de Árvores",
-          "date":"Dara  03 de julho de 2009",
+          "date":"Dara  03 de julho de 2009",
           "advisor":"Rafael Castro de Andrade",
           "coor_advisor":"Antonio Caminha Muniz Neto",
           "examination_board":[
@@ -4429,19 +4429,19 @@
           "degree":"master"
        },
        {
-          "name":"Bruno de Carvalho  Leal",
+          "name":"Bruno de Carvalho  Leal",
           "title":"Titulo: Da modelagem Conceitual à Representação Lógica de Trajetórias em SGBDOR e Sistemas de DW",
           "date":"12 de agosto de 2011",
           "advisor":null,
           "coor_advisor":"Orientador   Valéria Cesário Times",
           "examination_board":[
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
                 "name":"Orientador   Valéria Cesário Times",
-                "organization":"UFPE  a"
+                "organization":"UFPE "
              },
              {
                 "name":"Vânia Maria Ponte Vidal",
@@ -4490,7 +4490,7 @@
        },
        {
           "name":"Ana Karolinna Maia de Oliveira",
-          "title":"Estudo de Casos de Complexidade de Colorações Gulosa de Vértices e  de Arestas.",
+          "title":"Estudo de Casos de Complexidade de Colorações Gulosa de Vértices e  de Arestas.",
           "date":"07 de abril de 2011",
           "advisor":"Claudia Linhares Sales",
           "coor_advisor":null,
@@ -4504,7 +4504,7 @@
                 "organization":"INRIA/França"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -4607,7 +4607,7 @@
           "degree":"master"
        },
        {
-          "name":"Ticianne de Gois Ribeiro",
+          "name":"Ticianne de Góis Ribeiro Darin",
           "title":"Uma Abordagem Baseada em Ontologias para o Desenvolvimento de Aplicações Web de Integração de Dados",
           "date":"26 de janeiro de 2011",
           "advisor":"Vânia Maria Ponte Vidal",
@@ -4626,7 +4626,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4634,7 +4634,7 @@
        },
        {
           "name":"Bruno Góis Mateus",
-          "title":"Análise sobre o Impacto da Densidade Veicular, da Carga da Rede  e da Mobilidade no Desempenho de Protocolos de Roteamento para Redes Veiculares",
+          "title":"Análise sobre o Impacto da Densidade Veicular, da Carga da Rede  e da Mobilidade no Desempenho de Protocolos de Roteamento para Redes Veiculares",
           "date":"20 de dezembro de 2010",
           "advisor":"Rossana Maria de Castro Andrade",
           "coor_advisor":null,
@@ -4688,11 +4688,11 @@
           "name":"Fabiana Freire de Araujo",
           "title":"Titulo: MeMO: Uma Estrategia para Merging Multiplo de Ontologias baseada em Clustering /",
           "date":"18 de junho de 2009",
-          "advisor":"Bernadette Farias Loscio",
+          "advisor":"Bernadette Farias Lóscio",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Bernadette Farias Loscio",
+                "name":"Bernadette Farias Lóscio",
                 "organization":"UFC"
              },
              {
@@ -4837,15 +4837,15 @@
           "title":"Sistemas Formais Avançados e a Estratificação Relevante : Uma Defesa da Predicatividade das Definições",
           "date":"02 de Outubro de 2008",
           "advisor":"Marcelino Cavalcante Pequeno",
-          "coor_advisor":"Dr Ana Teresa de Castro Martins",
+          "coor_advisor":"Ana Teresa de Castro Martins",
           "examination_board":[
              {
                 "name":"Marcelino Cavalcante Pequeno",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Dr Ana Teresa de Castro Martins",
-                "organization":"MDCC/UFC  a"
+                "name":"Ana Teresa de Castro Martins",
+                "organization":"MDCC/UFC "
              },
              {
                 "name":"Jean-Yves Béziau",
@@ -4937,7 +4937,7 @@
           "title":"Semântica Inferencialista na Resolução de Anáforas Pronominais",
           "date":"09 de abril de 2010",
           "advisor":"Marcelino Cavalcante Pequeno",
-          "coor_advisor":"Dr Vládia Célia Pinheiro",
+          "coor_advisor":"Vládia Célia Pinheiro",
           "examination_board":[
              {
                 "name":"Marcelino Cavalcante Pequeno",
@@ -4948,11 +4948,11 @@
                 "organization":"PUC/RJ"
              },
              {
-                "name":"Dr Vládia Célia Pinheiro",
-                "organization":"UFC  a"
+                "name":"Vládia Célia Pinheiro",
+                "organization":"UFC "
              },
              {
-                "name":"Dr Ana Teresa de Castro Martins",
+                "name":"Ana Teresa de Castro Martins",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -4992,7 +4992,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5076,11 +5076,11 @@
           "name":"Ítalo Siqueira Lima",
           "title":"Extensões Induzidas de Altura Mínima de um Conjunto Parcialmente Ordenado.",
           "date":"30 de agosto de 2007",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5206,7 +5206,7 @@
                 "organization":"UFRJ"
              },
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5482,7 +5482,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5500,11 +5500,11 @@
           "name":"Pablo Mayckon Silva Farias",
           "title":"TITULO: Um Estudo sobre as Origens da Logica Matematica e os Limites da sua Aplicabilidade a Formalizacao da Matematica",
           "date":"31 de agosto de 2007",
-          "advisor":"Tarcisio Haroldo Cavalcante Pequeno",
+          "advisor":"Tarcísio Haroldo Cavalcante Pequeno",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Tarcisio Haroldo Cavalcante Pequeno",
+                "name":"Tarcísio Haroldo Cavalcante Pequeno",
                 "organization":"UFC"
              },
              {
@@ -5522,11 +5522,11 @@
           "name":"Carlos Hairon Ribeiro Gonçalves",
           "title":"Utilizando Redes Neurais Artificiais para Predição de Falhas em Links de Redes Ópticas",
           "date":"05 de setembro de 2003",
-          "advisor":"Antonio Mauro Barbosa de Oliveira",
+          "advisor":"Antônio Mauro Barbosa de Oliveira",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              },
              {
@@ -5696,7 +5696,7 @@
                 "organization":"UFRJ"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5732,11 +5732,11 @@
           "name":"Edson Ricardo de Andrade Silva",
           "title":"Uma Estratégia para Interpolação de Superfícies Através de Funções Bases.",
           "date":"21 de dezembro de 2001",
-          "advisor":"Dr Creto Augusto Vidal",
+          "advisor":"Creto Augusto Vidal",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Creto Augusto Vidal",
+                "name":"Creto Augusto Vidal",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5832,11 +5832,11 @@
           "name":"Lineu Antonio de Lima Santos",
           "title":"XML Publisher: Um Framework para Publicar Dados Objeto-Relacionais Através de Visões XML",
           "date":"06 de agosto de 2004",
-          "advisor":"Dr Vânia Maria Ponte Vidal",
+          "advisor":"Vânia Maria Ponte Vidal",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Vânia Maria Ponte Vidal",
+                "name":"Vânia Maria Ponte Vidal",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5902,11 +5902,11 @@
           "name":"José Gilvan Rodrigues Maia",
           "title":"CRAbGE - Uma Arquitetura para Motores Gráficos Flexíveis, Expansíveis e Portáveis.",
           "date":"20 de abril de 2005",
-          "advisor":"Joaquim Bento Cavalcante-Neto",
+          "advisor":"Joaquim Bento Cavalcante Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Joaquim Bento Cavalcante-Neto",
+                "name":"Joaquim Bento Cavalcante Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -5976,11 +5976,11 @@
           "name":"José de Ribamar Martins Bringel Filho",
           "title":"Um Framework para a Provisão de Segurança Fim - a - Fim para Aplicações no Ambiente de Computação Móvel",
           "date":"23 de setembro de 2004",
-          "advisor":"Dr Rossana Maria de Castro Andrade",
+          "advisor":"Rossana Maria de Castro Andrade",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Rossana Maria de Castro Andrade",
+                "name":"Rossana Maria de Castro Andrade",
                 "organization":"MDCC/UFC"
              },
              {
@@ -6024,11 +6024,11 @@
           "name":"Vitor Almeida dos Santos",
           "title":"Uma Ferramenta para Atribuição de Relógios Lógicos a Execuções Distribuídas.",
           "date":"05 de março de 2004",
-          "advisor":"Dr Ricardo Cordeiro Corrêa",
+          "advisor":"Ricardo Cordeiro Corrêa",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Ricardo Cordeiro Corrêa",
+                "name":"Ricardo Cordeiro Corrêa",
                 "organization":"UFC"
              },
              {
@@ -6036,7 +6036,7 @@
                 "organization":"UFRJ"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -6058,7 +6058,7 @@
                 "organization":"PUC/RJ"
              },
              {
-                "name":"Marcelino Calvacante Pequeno",
+                "name":"Marcelino Cavalcante Pequeno",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -6244,7 +6244,7 @@
                 "organization":"USP"
              },
              {
-                "name":"Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              }
           ],
@@ -6280,11 +6280,11 @@
           "name":"Moisés Almeida Castelo Branco",
           "title":"Um Algoritmo para Diagnóstico Distribuído de Falhas em Redes de Computadores.",
           "date":"20 de agosto de 1999",
-          "advisor":"Antonio Mauro Barbosa de Oliveira",
+          "advisor":"Antônio Mauro Barbosa de Oliveira",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              },
              {
@@ -6328,11 +6328,11 @@
           "name":"Adriano Sá Nascimento",
           "title":"Desenvolvendo Agentes Inteligentes para a Gerencia Pro-Ativa de Redes ATM.",
           "date":"23 de março de 1999",
-          "advisor":"Antonio Mauro Barbosa de Oliveira",
+          "advisor":"Antônio Mauro Barbosa de Oliveira",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              },
              {
@@ -6372,11 +6372,11 @@
           "name":"Francicleber Martins Ferreira",
           "title":"Modelos Minimais e Hierarquia de Expressividade",
           "date":"23 de Janeiro de 2007",
-          "advisor":"Dr Ana Teresa de Castro Martins",
+          "advisor":"Ana Teresa de Castro Martins",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Ana Teresa de Castro Martins",
+                "name":"Ana Teresa de Castro Martins",
                 "organization":"MDCC/UFC"
              },
              {
@@ -6462,7 +6462,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Dr Luciana Porcher Nedel",
+                "name":"Luciana Porcher Nedel",
                 "organization":"UFRGS"
              },
              {
@@ -6594,11 +6594,11 @@
           "name":"Davi Morais Ferreira",
           "title":"Integração de Bibliotecas Científicas de Propósito Especial em  uma Plataforma de Componentes Paralelos",
           "date":"23 de Novembro de 2010",
-          "advisor":"Francisco Heron de Carvalho Junior",
+          "advisor":"Francisco Heron de Carvalho Júnior",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Francisco Heron de Carvalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -6650,11 +6650,11 @@
           "name":"Cibele Matos Freire",
           "title":"Titulo: Complexidade Descritiva das Lógicas de Ordem Superior com Menor  Ponto Fixo e Análise de Expressividade de algumas Lógicas Modais.",
           "date":"13 de agosto de 2010",
-          "advisor":"Ana Teresa  de Castro Martins",
+          "advisor":"Ana Teresa  de Castro Martins",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Ana Teresa  de Castro Martins",
+                "name":"Ana Teresa  de Castro Martins",
                 "organization":"MDCC/UFC"
              },
              {
@@ -6724,11 +6724,11 @@
           "name":"Emanuele Marques dos Santos",
           "title":"Um Modelo de Integração de Aplicações Externas a Ambientes Virtuais Através do Uso de Aplicações Mediadoras de Simulóides",
           "date":"20 de dezembro de 2001",
-          "advisor":"Dr Creto Augusto Vidal",
+          "advisor":"Creto Augusto Vidal",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Creto Augusto Vidal",
+                "name":"Creto Augusto Vidal",
                 "organization":"MDCC/UFC"
              },
              {
@@ -6772,11 +6772,11 @@
           "name":"Antônio de Barros Serra",
           "title":"Uma Solução de Distribuição para Aplicações em Tempo Real no Contexto do Ensino Tecnológico a Distância",
           "date":"14 de dezembro de 2001",
-          "advisor":"Dr Antonio Mauro Barbosa de Oliveira",
+          "advisor":"Antônio Mauro Barbosa de Oliveira",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              },
              {
@@ -6794,11 +6794,11 @@
           "name":"Paulo Benício Melo de Sousa",
           "title":"WVM: Uma Ferramenta para Processamento Distribuído de Alto Desempenho.",
           "date":"23 de Novembro de 2001",
-          "advisor":"Dr Mário Maurício Fiallos Aguilar",
+          "advisor":"Mário Maurício Fiallos Aguilar",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Mário Maurício Fiallos Aguilar",
+                "name":"Mário Maurício Fiallos Aguilar",
                 "organization":"UFC"
              },
              {
@@ -6817,14 +6817,14 @@
           "degree":"master"
        },
        {
-          "name":"José Maria da Silva Monteiro",
+          "name":"José Maria da Silva Monteiro Filho",
           "title":"Teste de Grafo de Serialização Temporal: Uma Estratégia Para o Controle de Concorrência em Ambiente Broadcast",
           "date":"26 de outubro de 2001",
-          "advisor":"Dr Ângelo Roncalli Alencar Brayner",
+          "advisor":"Ângelo Roncalli Alencar Brayner",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Dr Ângelo Roncalli Alencar Brayner",
+                "name":"Ângelo Roncalli Alencar Brayner",
                 "organization":"MDCC/UFC"
              },
              {
@@ -7068,7 +7068,7 @@
                 "organization":"UFF"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -7142,7 +7142,7 @@
                 "organization":"UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -7226,11 +7226,11 @@
           "name":"Raimir Holanda Filho",
           "title":"SAGRES: Um Sistema Baseado em Conhecimento para Apoio à Gerência de Falhas em Redes de Computadores",
           "date":"08 de maio de 1998",
-          "advisor":"Antonio Mauro Barbosa de Oliveira",
+          "advisor":"Antônio Mauro Barbosa de Oliveira",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              },
              {
@@ -7270,11 +7270,11 @@
           "name":"Marcelo Vidal Vasconcelos",
           "title":"ATILA: Uma Arquitetura Inteligente e Distribuída para o Gerenciamento Pró-Ativo de Redes ATM",
           "date":"30 de março de 1998",
-          "advisor":"Antonio Mauro Barbosa de Oliveira",
+          "advisor":"Antônio Mauro Barbosa de Oliveira",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Antonio Mauro Barbosa de Oliveira",
+                "name":"Antônio Mauro Barbosa de Oliveira",
                 "organization":"CEFET/CE"
              },
              {
@@ -7424,11 +7424,11 @@
           "name":"Ricardo de Sousa Silvestre",
           "title":"Um Tratamento Formal para o Raciocínio sobre Ação em Inteligência Artificial.",
           "date":"28 de dezembro de 1998",
-          "advisor":"Tarcisio Haroldo Cavalcante Pequeno",
+          "advisor":"Tarcísio Haroldo Cavalcante Pequeno",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Tarcisio Haroldo Cavalcante Pequeno",
+                "name":"Tarcísio Haroldo Cavalcante Pequeno",
                 "organization":"UFC"
              },
              {
