@@ -2310,8 +2310,8 @@
           "name":"Danilo Borges da Silva",
           "title":"Um Modelo de Contato Simplificado para Tratamento de Equilíbrio",
           "date":"21 de fevereiro de 2014",
-          "advisor":null,
-          "coor_advisor":null,
+          "advisor":"Creto Augusto Vidal",
+          "coor_advisor":"Joaquim Bento Cavalcante Neto",
           "examination_board":[
              {
                 "name":"Creto Augusto Vidal",
@@ -2652,7 +2652,7 @@
           "name":"Rennan Ferreira Dantas",
           "title":"Problemas de Código de Identificação em Grides",
           "date":"16 de julho de 2014",
-          "advisor":null,
+          "advisor":"Rudini Menezes Sampaio",
           "coor_advisor":null,
           "examination_board":[
              {
@@ -4430,17 +4430,17 @@
        },
        {
           "name":"Bruno de Carvalho  Leal",
-          "title":"Titulo: Da modelagem Conceitual à Representação Lógica de Trajetórias em SGBDOR e Sistemas de DW",
+          "title":"Da modelagem Conceitual à Representação Lógica de Trajetórias em SGBDOR e Sistemas de DW",
           "date":"12 de agosto de 2011",
-          "advisor":null,
-          "coor_advisor":"Orientador   Valéria Cesário Times",
+          "advisor":"José Antônio Fernandes de Macêdo",
+          "coor_advisor":"Valéria Cesário Times",
           "examination_board":[
              {
                 "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Orientador   Valéria Cesário Times",
+                "name":"Valéria Cesário Times",
                 "organization":"UFPE "
              },
              {
@@ -5876,7 +5876,7 @@
           "name":"Windson Viana de Carvalho",
           "title":"Um Ambiente de Desenvolvimento de Aplicações Multi-Plataformas e Adaptativas para Dispositívos Móveis.",
           "date":"11 de junho de 2005",
-          "advisor":null,
+          "advisor":"Rossana Maria de Castro Andrade",
           "coor_advisor":null,
           "examination_board":[
              {
@@ -6350,7 +6350,7 @@
           "name":"Flávio Rubens de Carvalho Sousa",
           "title":"RepliX: Um Mecanismo para a Replicação de Dados XML",
           "date":"09 de Março de 2007",
-          "advisor":null,
+          "advisor":"Javam de Castro Machado",
           "coor_advisor":null,
           "examination_board":[
              {
@@ -6942,7 +6942,7 @@
           "name":"Valdiana da Silva Araújo",
           "title":"Gerando Regras para Mantenção Incremental de Visões Materializadas de Dados Relacionais.",
           "date":"12 de julho de 2005",
-          "advisor":null,
+          "advisor":"Vania Maria Ponte Vidal",
           "coor_advisor":null,
           "examination_board":[
              {
