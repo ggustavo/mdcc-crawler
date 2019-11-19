@@ -2,4 +2,5 @@
 A simple crawler for retrieving graduate students data from UFC/MDCC program
 
 
-## [Graph](test.html)<br>
+## [Graph](index.html)<br>
+## [Graph2](test.html)<br>
