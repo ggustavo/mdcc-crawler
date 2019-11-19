@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+
+<head>
+	
+	<style type="text/css">
+		
+	 html, body {
+	     height: 100%;
+	 }
+	 
+	 body {
+	     padding: 8px;
+	     background-color: #F6F6F6;
+	     box-sizing: border-box;
+	 }
+	 
+	 .split {
+	     -webkit-box-sizing: border-box;
+	     -moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	     overflow-y: auto;
+	     overflow-x: hidden;
+	 }
+	 
+	 .content {
+	     border: 1px solid #C0C0C0;
+	     box-shadow: inset 0 1px 2px #e4e4e4;
+	     background-color: #fff;
+	 }
+	 
+	 .gutter {
+	     background-color: transparent;
+	     background-repeat: no-repeat;
+	     background-position: 50%;
+	 }
+	 
+	 .gutter.gutter-horizontal {
+	     cursor: col-resize;
+	 }
+	 
+	 .gutter.gutter-vertical {
+	     cursor: row-resize;
+	 }
+	 
+	 .split.split-horizontal,
+	 .gutter.gutter-horizontal {
+	     height: 100%;
+	     float: left;
+	 }
+
+	 
+	</style>
+
+
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/split.js/1.2.0/split.min.js"></script>
+<script type="module">
+
+	 Split(['#a', '#b'], {
+	 		sizes: [75, 25],
+	        gutterSize: 8,
+	        cursor: 'col-resize'
+	    });
+
+	    Split(['#container_1', '#chart4'], {
+	        direction: 'vertical',
+	        sizes: [75, 25],
+	        gutterSize: 8,
+	        cursor: 'row-resize'
+	    });
+
+	    Split(['#chart', '#chart2'], {
+	        direction: 'vertical',
+	        sizes: [50, 50],
+	        gutterSize: 8,
+	        cursor: 'row-resize'
+	    });
+
+	// Load the Observable runtime and inspector.
+	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+	// Your notebook, compiled as an ES module.
+	import notebook from "https://api.observablehq.com/@gustavo/introducao-ao-d3-com-observable/2.js?v=3";
+
+
+	new Runtime().module(notebook, name => {
+	  if (name === "barras1") {
+	    return new Inspector(document.querySelector("#chart"));
+	  }
+	  else if (name === "barras2") {
+	    return new Inspector(document.querySelector("#chart2"));
+	  }
+	  else if (name === "barras4") {
+	    return new Inspector(document.querySelector("#chart4"));
+	  }
+	});
+
+	import graph from "https://api.observablehq.com/@gustavo/mdcc-tree.js?v=3";
+
+	new Runtime().module(graph, name => {
+	  if (name === "buildvis") {
+	    return new Inspector(document.querySelector("#graph"));
+	  }
+	});
+
+
+	</script>
+
+
+</head>
+
+
+<body>
+
+	<div id="a" class="split split-horizontal">
+	    <div class="split content" id="container_1">
+	    	<div id="graph"></div>
+	    </div>
+		<div class="split content" id="chart4"></div>
+	</div>
+
+	<div id="b" class="split split-horizontal">
+    	<div class="split content" id="chart"></div>
+
+    	<div class="split content" id="chart2"></div>	
+	</div>
+
+</body>
