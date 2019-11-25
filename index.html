@@ -82,17 +82,17 @@
 	// Load the Observable runtime and inspector.
 	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 	// Your notebook, compiled as an ES module.
-	import notebook from "https://api.observablehq.com/@gustavo/introducao-ao-d3-com-observable/2.js?v=3";
+	import notebook from "https://api.observablehq.com/@augustocam95/tentativa-2-trab-vis.js?v=3";
 
-
+https://observablehq.com/@augustocam95/tentativa-2-trab-vis
 	new Runtime().module(notebook, name => {
-	  if (name === "barras1") {
+	  if (name === "by_year") {
 	    return new Inspector(document.querySelector("#chart"));
 	  }
-	  else if (name === "barras2") {
+	  else if (name === "by_genre") {
 	    return new Inspector(document.querySelector("#chart2"));
 	  }
-	  else if (name === "barras4") {
+	  else if (name === "by_me") {
 	    return new Inspector(document.querySelector("#chart4"));
 	  }
 	});
@@ -124,9 +124,9 @@
 	</div>
 
 	<div id="b" class="split split-horizontal">
-    	<div class="split content" id="chart"></div>
+	    	<div class="split content" id="chart"></div>
 
-    	<div class="split content" id="chart2"></div>	
+	    	<div class="split content" id="chart2"></div>	
 	</div>
 
 </body>
