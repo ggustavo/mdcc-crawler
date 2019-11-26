@@ -72,19 +72,26 @@
 	        cursor: 'row-resize'
 	    });
 
-	    Split(['#chart', '#chart2'], {
+	    Split(['#chart', '#container_2'], {
 	        direction: 'vertical',
-	        sizes: [50, 50],
+	        sizes: [45, 55],
 	        gutterSize: 8,
 	        cursor: 'row-resize'
+	    });
+
+		Split(['#chart2', '#chart5'], {
+	        
+	        sizes: [43, 57],
+	        gutterSize: 8,
+	        cursor: 'col-resize'
 	    });
 
 	// Load the Observable runtime and inspector.
 	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
 	// Your notebook, compiled as an ES module.
-	import notebook from "https://api.observablehq.com/@gustavo/tentativa-2-trab-vis.js?v=3";
+	import notebook from "https://api.observablehq.com/@gustavo/mdcc-graficos-interativos.js?v=3";
 
-https://observablehq.com/@augustocam95/tentativa-2-trab-vis
+
 	new Runtime().module(notebook, name => {
 	  if (name === "by_year") {
 	    return new Inspector(document.querySelector("#chart"));
@@ -94,6 +101,9 @@ https://observablehq.com/@augustocam95/tentativa-2-trab-vis
 	  }
 	  else if (name === "by_me") {
 	    return new Inspector(document.querySelector("#chart4"));
+	  }
+	  else if (name === "research_line_graph") {
+	    return new Inspector(document.querySelector("#chart5"));
 	  }
 	});
 
@@ -126,7 +136,15 @@ https://observablehq.com/@augustocam95/tentativa-2-trab-vis
 	<div id="b" class="split split-horizontal">
 	    	<div class="split content" id="chart" ></div>
 
-	    	<div class="split content" id="chart2"></div>	
+			<div class="split content" id="container_2" style="background-color: #003064;" >
+				
+				<div class="split split-horizontal" id="chart2"></div>	
+				<div class="split split-horizontal" id="chart5"></div>
+			
+			</div>	
+
+	    	
+				
 	</div>
 
 </body>
