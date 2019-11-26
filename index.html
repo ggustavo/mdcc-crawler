@@ -72,7 +72,14 @@
 	        cursor: 'row-resize'
 	    });
 
-	    Split(['#chart', '#container_2'], {
+	    Split(['#container_3', '#container_2'], {
+	        direction: 'vertical',
+	        sizes: [65, 35],
+	        gutterSize: 8,
+	        cursor: 'row-resize'
+	    });
+
+	     Split(['#chart', '#chart6'], {
 	        direction: 'vertical',
 	        sizes: [45, 55],
 	        gutterSize: 8,
@@ -102,9 +109,13 @@
 	  else if (name === "by_me") {
 	    return new Inspector(document.querySelector("#chart4"));
 	  }
-	  else if (name === "research_line_graph") {
+	  else if (name === "by_coor") {
 	    return new Inspector(document.querySelector("#chart5"));
 	  }
+	  else if (name === "research_line_graph") {
+	    return new Inspector(document.querySelector("#chart6"));
+	  }
+
 	});
 
 	import graph from "https://api.observablehq.com/@gustavo/mdcc-tree.js?v=3";
@@ -134,7 +145,12 @@
 	</div>
 
 	<div id="b" class="split split-horizontal">
-	    	<div class="split content" id="chart" ></div>
+	    	
+
+	    	<div class="split content" id="container_3" style="background-color: #003064;" >
+	    		<div class="split content" id="chart" ></div>
+				<div class="split content" id="chart6" ></div>
+	    	</div>
 
 			<div class="split content" id="container_2" style="background-color: #003064;" >
 				
