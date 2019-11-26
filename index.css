@@ -92,8 +92,9 @@
       fill-opacity: 0.6; }
   
   .dc-chart g.row text {
-    fill: #fff;
+    fill: #111111;
     font-size: 12px;
+    font-weight: bold;
     cursor: pointer; }
   
   .dc-chart g.dc-tooltip path {
