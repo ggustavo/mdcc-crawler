@@ -12,7 +12,7 @@
 	 
 	 body {
 	     padding: 8px;
-	     background-color: #F6F6F6;
+	     background-color: #003064;
 	     box-sizing: border-box;
 	 }
 	 
@@ -60,7 +60,7 @@
 <script type="module">
 
 	 Split(['#a', '#b'], {
-	 		sizes: [75, 25],
+	 		sizes: [57, 43],
 	        gutterSize: 8,
 	        cursor: 'col-resize'
 	    });
@@ -115,7 +115,7 @@ https://observablehq.com/@augustocam95/tentativa-2-trab-vis
 <body>
 
 	<div id="a" class="split split-horizontal">
-	    <div class="split content" id="container_1">
+	    <div class="split content" id="container_1" style="overflow:hidden"> <! overflow removes scroll ––>
 	    	
                 <div id="graph"></div>
             
@@ -124,7 +124,7 @@ https://observablehq.com/@augustocam95/tentativa-2-trab-vis
 	</div>
 
 	<div id="b" class="split split-horizontal">
-	    	<div class="split content" id="chart"></div>
+	    	<div class="split content" id="chart" ></div>
 
 	    	<div class="split content" id="chart2"></div>	
 	</div>
