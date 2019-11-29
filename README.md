@@ -1,5 +1,5 @@
 # mdcc-crawler
-A simple crawler for retrieving graduate students data from UFC/MDCC program
+A simple crawler for retrieving graduate students data and "Academic Genealogy" visualization from UFC/MDCC program
 
 # Visualization Painel 
 https://ggustavo.github.io/mdcc-crawler/
