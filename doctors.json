@@ -231,7 +231,7 @@
             },
             {
                "name":"Andrea Cynthia Santos Duhamel",
-               "organization":"UTT/França  a"
+               "organization":"UTT/França"
             },
             {
                "name":"Manoel Bezerra Campelo Neto",
@@ -287,14 +287,14 @@
          "title":"Sistema de apoio a decisão para implantar uma aplicação baseada em microsserviços em um ambiente multi-cloud.",
          "date":"30 de julho de 2019",
          "advisor":"Fernando Antonio Mota Trinta",
-         "coor_advisor":"Dario Vieira Conceição",
+         "coor_advisor":"Dario Vieira Conceicao",
          "examination_board":[
             {
                "name":"Fernando Antonio Mota Trinta",
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Dario Vieira Conceição",
+               "name":"Dario Vieira Conceicao",
                "organization":"EFREI/França"
             },
             {
@@ -387,11 +387,11 @@
        "name":"Raimundo Tales Benigno Rocha Matos",
        "title":"Feature selection with low correlated binary features for potential tax fraudsters classification.",
        "date":"19 de junho de 2019",
-       "advisor":"Jose Maria da Silva Monteiro Filho ",
+       "advisor":"Jose Maria da Silva Monteiro Filho",
        "coor_advisor":"Jose Antonio Fernandes de Macedo",
        "examination_board":[
           {
-             "name":"Jose Maria da Silva Monteiro Filho ",
+             "name":"Jose Maria da Silva Monteiro Filho",
              "organization":"MDCC/UFC"
           },
           {
@@ -481,11 +481,11 @@
           "name":"Pablo Luiz Braga Soares",
           "title":"Problemas quadráticos binários: abordagem teórica e computacional.",
           "date":"11 de outubro de 2018",
-          "advisor":"Manoel Bezerra Campêlo Neto",
+          "advisor":"Manoel Bezerra Campelo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campêlo Neto",
+                "name":"Manoel Bezerra Campelo Neto",
                 "organization":"MDCC/UFC"
              },
              {
