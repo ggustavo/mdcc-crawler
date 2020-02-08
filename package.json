@@ -1,0 +1,14 @@
+{
+  "name": "mdcc-crawler-master",
+  "version": "1.0.0",
+  "description": "A simple crawler for retrieving graduate students data and \"Academic Genealogy\" visualization from UFC/MDCC program",
+  "main": "doctors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Moraes",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
