@@ -1,5 +1,418 @@
 {
     "works":[
+      {
+         "name":"Wagner Guimarães Al Alam",
+         "title":"A abstração de contratos contextuais para alocação de recursos de  sistemas de computação paralela orientados a componentes em nuvens.",
+         "date":"29 de novembro de 2019",
+         "advisor":"Francisco Heron de Carvalho Junior",
+         "coor_advisor":null,
+         "examination_board":[
+            {
+               "name":"Francisco Heron de Carvalho Junior",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Lincoln Souza Rocha",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Rossana Maria de Castro Andrade",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Antonio Tadeu Azevedo Gomes",
+               "organization":"LNCC"
+            },
+            {
+               "name":"Andre Rauber Du Bois",
+               "organization":"UFPEL"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Rainara Maia Carvalho",
+         "title":"Correlate & lead: process and catalog of non-functional requirements correlations in ubicomp and iot systems.",
+         "date":"04 de setembro de 2019",
+         "advisor":"Rossana Maria de Castro Andrade",
+         "coor_advisor":"Kathia Marçal de Oliveira",
+         "examination_board":[
+            {
+               "name":"Rossana Maria de Castro Andrade",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Kathia Marçal de Oliveira",
+               "organization":"UPHF/França"
+            },
+            {
+               "name":"Windson Viana de Carvalho",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Andreia Liborio Sampaio",
+               "organization":"UFC"
+            },
+            {
+               "name":"Claudia Cappelli Alo",
+               "organization":"UFRJ"
+            },
+            {
+               "name":"Luiz Marcio Cysneiros",
+               "organization":"YORKU/Canada"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Antonio Jose Melo Leite Junior",
+         "title":"Uma abordagem para a investigação de padrões de movimento e de  comportamento de indivíduos empregando análise visual de Predictive  Suffix Trees.",
+         "date":"30 de agosto de 2019",
+         "advisor":"Creto Augusto Vidal",
+         "coor_advisor":"Emanuele Marques dos Santos",
+         "examination_board":[
+            {
+               "name":"Creto Augusto Vidal",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Emanuele Marques dos Santos",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Jose Antonio Fernandes Mecedo",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Anselmo Cardoso de Paiva",
+               "organization":"UFMA"
+            },
+            {
+               "name":"Aura Conci",
+               "organization":"UFF"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Luis Henrique Bustamante de Morais",
+         "title":"Parameterized complexity investigations on the first-order satisfiability and matching problems.",
+         "date":"30 de agosto de 2019",
+         "advisor":"Ana Teresa de Castro Martins",
+         "coor_advisor":"Francicleber Martins Ferreira",
+         "examination_board":[
+            {
+               "name":"Ana Teresa de Castro Martins",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Francicleber Martins Ferreira",
+               "organization":"UFC"
+            },
+            {
+               "name":"Carlos Eduardo Fisch de Brito",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Edward Hermann Haeusler",
+               "organization":"PUCRJ"
+            },
+            {
+               "name":"Mario Roberto Folhadela Benevides",
+               "organization":"UFRJ"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Thiago Alves Rocha",
+         "title":"Synthesis of First-Order Sentences using Ehrenfeucht–Fraïssé games and Boolean Satisfiability.",
+         "date":"30 de agosto de 2019",
+         "advisor":"Ana Teresa de Castro Martins",
+         "coor_advisor":"Francicleber Martins Ferreira",
+         "examination_board":[
+            {
+               "name":"Ana Teresa de Castro Martins",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Francicleber Martins Ferreira",
+               "organization":"UFC"
+            },
+            {
+               "name":"Joao Fernando Lima Alcantara",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Edward Hermann Haeusler",
+               "organization":"PUCRJ"
+            },
+            {
+               "name":"Ruy Jose Guerra Barretto de Queiroz",
+               "organization":"UFPE"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Daniel Nascimento Teixeira",
+         "title":"Uma técnica de decomposição de domínios a priori para geração automática de malhas tetraédricas em paralelo.",
+         "date":"19 de junho de 2019",
+         "advisor":"Joaquim Bento Cavalcante Neto",
+         "coor_advisor":"Creto Augusto Vidal",
+         "examination_board":[
+            {
+               "name":"Joaquim Bento Cavalcante Neto",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Creto Augusto Vidal",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Evandro Parente Júnior",
+               "organization":"UFC"
+            },
+            {
+               "name":"Markos Oliveira Freitas",
+               "organization":"UFC"
+            },
+            {
+               "name":"Luiz Fernando Campos Ramos Martha",
+               "organization":"PUCRJ"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Rommel Dias Saraiva",
+         "title":"Mathematical programming approaches for NP-Hard constrained shortest path problems.",
+         "date":"29 de agosto de 2019",
+         "advisor":"Rafael Castro de Andrade",
+         "coor_advisor":null,
+         "examination_board":[
+            {
+               "name":"Rafael Castro de Andrade",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Manoel Bezerra Campelo Neto",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Ana Karolinna Maia de Oliveira",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Marcos Jose Negreiros Gomes",
+               "organization":"UECE"
+            },
+            {
+               "name":"Nelson Maculan Filho",
+               "organization":"UFRJ"
+            },
+            {
+               "name":"Placido Rogerio Pinheiro",
+               "organization":"UNIFOR"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Ernando Gomes de Sousa",
+         "title":"Multigraph, decomposition and BRKGA solution approaches for the Generalized Minimum Spanning Tree Problem.",
+         "date":"14 de agosto de 2019",
+         "advisor":"Rafael Castro de Andrade",
+         "coor_advisor":"Andrea Cynthia Santos Duhamel",
+         "examination_board":[
+            {
+               "name":"Rafael Castro de Andrade",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Andrea Cynthia Santos Duhamel",
+               "organization":"UTT/França  a"
+            },
+            {
+               "name":"Manoel Bezerra Campelo Neto",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Abilio Pereira Lucena Filho",
+               "organization":"UFRJ"
+            },
+            {
+               "name":"Philippe Yves Paul Michelon",
+               "organization":"UNIVAVIGNON/França"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Paulo Henrique Macedo de Araujo",
+         "title":"The geodesic classification problem on graphs.",
+         "date":"12 de agosto de 2019",
+         "advisor":"Manoel Bezerra Campelo Neto",
+         "coor_advisor":"Ricardo Cordeiro Correa",
+         "examination_board":[
+            {
+               "name":"Manoel Bezerra Campelo Neto",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Ricardo Cordeiro Correa",
+               "organization":"UFRRJ"
+            },
+            {
+               "name":"Rafael Castro de Andrade",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Javier Marenco",
+               "organization":"UNGS Argentina"
+            },
+            {
+               "name":"Martine Labbe",
+               "organization":"ULB Belgica"
+            },
+            {
+               "name":"Yoshiko Wakabayashi",
+               "organization":"USP"
+            }
+         ],
+         "degree":"doctor"
+      },
+      {
+         "name":"Juliana Oliveira de Carvalho",
+         "title":"Sistema de apoio a decisão para implantar uma aplicação baseada em microsserviços em um ambiente multi-cloud.",
+         "date":"30 de julho de 2019",
+         "advisor":"Fernando Antonio Mota Trinta",
+         "coor_advisor":"Dario Vieira Conceição",
+         "examination_board":[
+            {
+               "name":"Fernando Antonio Mota Trinta",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Dario Vieira Conceição",
+               "organization":"EFREI/França"
+            },
+            {
+               "name":"Jose Neuman de Souza",
+               "organization":"MDCC/UFC"
+            },
+            {
+               "name":"Nelson Souto Rosa",
+               "organization":"UFPE"
+            },
+            {
+               "name":"Vinicius Cardoso Garcia",
+               "organization":"UFPE"
+            }
+         ],
+         "degree":"doctor"
+      },
+
+      {
+       "name":"Luis Fernando Maia Santos Silva",
+       "title":"Balancing and transposition of maps for location-based games.",
+       "date":"11 de julho de 2019",
+       "advisor":"Fernando Antonio Mota Trinta",
+       "coor_advisor":"Windson Viana de Carvalho",
+       "examination_board":[
+          {
+             "name":"Fernando Antonio Mota Trinta",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Windson Viana de Carvalho",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Rudini Menezes Sampaio",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Emanuele Marques dos Santos",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Claudio de Souza Baptista",
+             "organization":"UFCG"
+          },
+          {
+           "name":"Esteban Walter Gonzalez Clua",
+           "organization":"UFF"
+          }
+       ],
+       "degree":"doctor"
+    },
+
+    {
+       "name":"Rennan Ferreira Dantas",
+       "title":"Densidade mínima de códigos de identificação em grades.",
+       "date":"28 de junho de 2019",
+       "advisor":"Rudini Menezes Sampaio",
+       "coor_advisor":null,
+       "examination_board":[
+          {
+             "name":"Rudini Menezes Sampaio",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Claudia Linhares Sales",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Antonio Josefran de Oliveira Bastos",
+             "organization":"UFC"
+          },
+          {
+             "name":"Julio César Silva Araújo",
+             "organization":"UFC"
+          },
+          {
+             "name":"Sulamita Klein",
+             "organization":"UFRJ"
+          },
+          {
+           "name":"Nicolas de Almeida Martins",
+           "organization":"UNILAB"
+          }
+       ],
+       "degree":"doctor"
+    },
+
+    {
+       "name":"Raimundo Tales Benigno Rocha Matos",
+       "title":"Feature selection with low correlated binary features for potential tax fraudsters classification.",
+       "date":"19 de junho de 2019",
+       "advisor":"Jose Maria da Silva Monteiro Filho ",
+       "coor_advisor":"Jose Antonio Fernandes de Macedo",
+       "examination_board":[
+          {
+             "name":"Jose Maria da Silva Monteiro Filho ",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Jose Antonio Fernandes de Macedo",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Cesar Lincoln Cavalcante Mattos",
+             "organization":"MDCC/UFC"
+          },
+          {
+             "name":"Chiara Renso",
+             "organization":"CNR Itália"
+          },
+          {
+             "name":"Franco Maria Nardini",
+             "organization":"CNR Itália"
+          }
+       ],
+       "degree":"doctor"
+    },
        {
           "name":"Germano Fenner",
           "title":"Um Modelo Orientado ao Négocio para Suporte à Tomada de Decisão Multicritério no Gerenciamento de Capacidade em Provedores IAAS.",
