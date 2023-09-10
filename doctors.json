@@ -363,11 +363,11 @@
          "name":"Renan Gomes Vieira",
          "title":"Contributions to bug-fixing time estimation: an empirical study in open source projects of apache ecosystem",
          "date":"26 de maio de 2022",
-         "advisor":"João Paulo P. Gomes",
+         "advisor":"João Paulo Pordeus Gomes",
          "coor_advisor":"Lincoln Souza Rocha",
          "examination_board":[
             {
-               "name":"João Paulo P. Gomes",
+               "name":"João Paulo Pordeus Gomes",
                "organization":"MDCC/UFC"
             },
             {
@@ -423,11 +423,11 @@
          "name":"Jose Wellington Franco da Silva",
          "title":"Um framework baseado em conhecimento de senso comum para sistemas de perguntas e respostas sobre grafo de conhecimento.",
          "date":"17 de fevereiro de 2022",
-         "advisor":"Vânia Maria Ponte Vida",
+         "advisor":"Vania Maria Ponte Vidal",
          "coor_advisor":"Vládia Célia Monteiro Pinheiro",
          "examination_board":[
             {
-               "name":"Vânia Maria Ponte Vida",
+               "name":"Vania Maria Ponte Vidal",
                "organization":"MDCC/UFC"
             },
             {
@@ -483,11 +483,11 @@
          "name":"Eurinardo Rodrigues Costa",
          "title":"Resultados em jogos de coloracao e perseguicao em grafos.",
          "date":"02 de setembro de 2022",
-         "advisor":"Rudini M. Sampaio",
+         "advisor":"Rudini Menezes Sampaio",
          "coor_advisor":null,
          "examination_board":[
             {
-               "name":"Rudini M. Sampaio",
+               "name":"Rudini Menezes Sampaio",
                "organization":"MDCC/UFC"
             },
             {
@@ -604,14 +604,14 @@
          "title":"Main memory database instant recovery.",
          "date":"06 de junho de 2022",
          "advisor":"José Maria da Silva Monteiro Filho",
-         "coor_advisor":"Angelo Roncalli de Alencar Brayner",
+         "coor_advisor":"Angelo Roncalli Alencar Brayner",
          "examination_board":[
             {
                "name":"José Maria da Silva Monteiro Filho",
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Angelo Roncalli de Alencar Brayner",
+               "name":"Angelo Roncalli Alencar Brayner",
                "organization":"UFC"
             },
             {
