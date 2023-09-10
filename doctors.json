@@ -770,36 +770,6 @@
          "degree":"doctor"
       },
       {
-         "name":"Antonio Jose Melo Leite Junior",
-         "title":"Uma abordagem para a investigação de padrões de movimento e de  comportamento de indivíduos empregando análise visual de Predictive  Suffix Trees.",
-         "date":"30 de agosto de 2019",
-         "advisor":"Creto Augusto Vidal",
-         "coor_advisor":"Emanuele Marques dos Santos",
-         "examination_board":[
-            {
-               "name":"Creto Augusto Vidal",
-               "organization":"MDCC/UFC"
-            },
-            {
-               "name":"Emanuele Marques dos Santos",
-               "organization":"MDCC/UFC"
-            },
-            {
-               "name":"Jose Antonio Fernandes Mecedo",
-               "organization":"MDCC/UFC"
-            },
-            {
-               "name":"Anselmo Cardoso de Paiva",
-               "organization":"UFMA"
-            },
-            {
-               "name":"Aura Conci",
-               "organization":"UFF"
-            }
-         ],
-         "degree":"doctor"
-      },
-      {
          "name":"Luis Henrique Bustamante de Morais",
          "title":"Parameterized complexity investigations on the first-order satisfiability and matching problems.",
          "date":"30 de agosto de 2019",
