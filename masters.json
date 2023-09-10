@@ -1,5 +1,1301 @@
 {
     "works":[
+
+      {
+         "name": "Janete Perreira do Amaral",
+         "title": "Alocação preditiva de recursos em nuvem utilizando redes neurais.",
+         "date": "30 de janeiro de 2023",
+         "advisor": "José Neuman de Souza",
+         "coor_advisor": "Alberto Sampaio Lima",
+         "examination_board": [
+             {
+                 "name": "José Neuman de Souza",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Alberto Sampaio Lima",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Lincoln Souza Rocha",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Joaquim Celestino Junior",
+                 "organization": "UECE"
+             },
+             {
+                 "name": "José Antão Beltrão Moura",
+                 "organization": "UFCG"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Francisco Antonio Ferreira de Almeida",
+         "title": "Teoria Algorítmica de Matroides.",
+         "date": "12 de janeiro de 2023",
+         "advisor": "Victor Almeida Campos",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Victor Almeida Campos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Manoel Bezerra Campêlo Neto",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Ana Shirley Ferreira da Silva",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "João Paulo Vital Santos",
+         "title": "DMless: Uma Abordagem para Gerenciamento de Dados em Ambientes Serverless.",
+         "date": "30 de novembro de 2022",
+         "advisor": "Flávio Rubens de Carvalho Sousa",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Flávio Rubens de Carvalho Sousa",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "João Marcelo Uchôa de Alencar",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "João Bosco Ferreira Filho",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "José Augusto Câmara Filho",
+         "title": "Um guia prático para apoiar tarefas preditivas em Ciência de Dados.",
+         "date": "30 de novembro de 2022",
+         "advisor": "José Maria Monteiro da Silva Filho",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "José Maria Monteiro da Silva Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "João Paulo do Vale Madeiro",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Renan Alves Barbosa",
+         "title": "Um testbed para experimentação em Mobile Cloud Computig utilizando virtualização baseada em containers.",
+         "date": "30 de novembro de 2022",
+         "advisor": "Paulo Antonio Leal Rego",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Paulo Antonio Leal Rego",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Fernando Antonio Mota Trinta",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "José Neuman de Souza",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Michel Sales Bonfim",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Glauber Dias Gonçalves",
+                 "organization": "UFPI"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+
+{
+         "name": "Felipe Gomes Rufino Moura Paiva",
+         "title": "Estudo sobre os impactos causados pela hibridização em jogos de cartas analógicos.",
+         "date": "30 de novembro de 2022",
+         "advisor": "Windson Viana de Carvalho",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Windson Viana de Carvalho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Glaudiney Moreira Mendonça Junior",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Fernando Antonio Mota Trinta",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Carlos de Salles Soares Neto",
+                 "organization": "UFMA"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Liana Mara Carvalho de Menezes",
+         "title": "Uma abordagem de teste baseada em guias estruturados para avaliar características IoT.",
+         "date": "29 de novembro de 2022",
+         "advisor": "Valéria Lelli Leitão Dantas",
+         "coor_advisor": "Rossana Maria de Castro Andrade",
+         "examination_board": [
+             {
+                 "name": "Valéria Lelli Leitão Dantas",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Rossana Maria de Castro Andrade",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Atslands Rego da Rocha",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Ismayle de Sousa Santos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Rodrigo Pereira dos Santos",
+                 "organization": "UFRJ"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Antônio José Amâncio da Silva",
+         "title": "Towards Automatic Labeling of Exception Handling Bugs: A Case Study of 10 Years Bug-Fixing in Apache Hadoop.",
+         "date": "25 de novembro de 2022",
+         "advisor": "Lincoln Souza Rocha",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Lincoln Souza Rocha",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Paulo Henrique Mendes Maia",
+                 "organization": "UECE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Francisco Luciano Castro Martins Júnior",
+         "title": "Proposta de arquitetura flexível de segurança para compartilhamento de contexto em IoT.",
+         "date": "25 de novembro de 2022",
+         "advisor": "Arthur de Castro Callado",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Arthur de Castro Callado",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Neuman de Souza",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Eduardo James Pereira Souto",
+                 "organization": "UFAM"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Breno Alef Dourado Sá",
+         "title": "Resolução de topônimos em textos não estruturados baseada em heurísticas.",
+         "date": "22 de novembro de 2022",
+         "advisor": "José Antônio Fernandes de Macêdo",
+         "coor_advisor": "Ticiana Linhares Coelho da Silva",
+         "examination_board": [
+             {
+                 "name": "José Antônio Fernandes de Macêdo",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ticiana Linhares Coelho da Silva",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Flávio Rubens de Carvalho Sousa",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Vinícius Cezar Monteiro de Lira",
+                 "organization": "ISTICNR"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+
+{
+         "name": "Rubens Anderson de Sousa Silva",
+         "title": "D-CreEA: DSML Para Criação de Jogos Analógicos Educacionais de Cartas.",
+         "date": "21 de novembro de 2022",
+         "advisor": "Rossana Maria de Castro Andrade",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Rossana Maria de Castro Andrade",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ismayle de Sousa Santos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Windson Viana de Carvalho",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Victor Travassos Sarinho",
+                 "organization": "UFES"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Gustavo de Oliveira Moraes",
+         "title": "EBRES: Uma estratégia inteligente de substituição de páginas para banco de dados.",
+         "date": "28 de outubro de 2022",
+         "advisor": "Angelo Roncalli Alencar Brayner",
+         "coor_advisor": "José de Aguiar Moraes Filho",
+         "examination_board": [
+             {
+                 "name": "Angelo Roncalli Alencar Brayner",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José de Aguiar Moraes Filho",
+                 "organization": "SERPRO"
+             },
+             {
+                 "name": "Javam de Castro Machado",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Eduardo Cunha de Almeida",
+                 "organization": "UFPR"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Wendell Militão Fernandes Mendes",
+         "title": "Studying the prevalence of Atoms of Confusion in long-lived Java libraries",
+         "date": "17 de outubro de 2022",
+         "advisor": "Windson Viana de Carvalho",
+         "coor_advisor": "Lincoln Souza Rocha",
+         "examination_board": [
+             {
+                 "name": "Windson Viana de Carvalho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Lincoln Souza Rocha",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "João Bosco Ferreira Filho",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Márcio de Medeiros Ribeiro",
+                 "organization": "UFAL"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Marília Cristina do Carmo Viana",
+         "title": "Problema da precificação livre de inveja: Uma proposta de modelos matemáticos para a variante de consumidores decididos.",
+         "date": "22 de julho de 2022",
+         "advisor": "Manoel Bezerra Campêlo Neto",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Manoel Bezerra Campêlo Neto",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Rafael Castro de Andrade",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Tatiane Fernandes Figueiredo",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Rosiane de Freitas Rodrigues",
+                 "organization": "UFAM"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Maria de Lourdes Maia Silva",
+         "title": "Ativando λ-justiça: Não-discriminação algorítmica em Árvores de Decisão.",
+         "date": "22 de abril de 2022",
+         "advisor": "Javam de Castro Machado",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Javam de Castro Machado",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Cesar Lincoln Mattos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Victor Aguiar Evangelista de Farias",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Sergio Lifschitz",
+                 "organization": "PUCRIO"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+{
+         "name": "Juliana Peixoto Silva Alencar",
+         "title": "Deep neural networks for pavements distress detection.",
+         "date": "23 de março de 2022",
+         "advisor": "João Paulo Pordeus Gomes",
+         "coor_advisor": "Cesar Lincoln Cavalcante Mattos",
+         "examination_board": [
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Cesar Lincoln Cavalcante Mattos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "João Paulo do Vale Madeiro",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Ajalmar Rego Rocha Neto",
+                 "organization": "IFCE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Erison Miller Santos Mesquita",
+         "title": "Mapa de sombras geométricas não sobrepostas.",
+         "date": "10 de fevereiro de 2022",
+         "advisor": "Creto Augusto Vidal",
+         "coor_advisor": "Joaquim Bento Cavalcante Neto",
+         "examination_board": [
+             {
+                 "name": "Creto Augusto Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Joaquim Bento Cavalcante Neto",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Rafael Fernandes Ivo",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Lucas Cabral Carneiro da Cunha",
+         "title": "FakeWhatsApp.BR: detecção de desinformação e desinformadores em grupos públicos do WhatsApp em PT-BR.",
+         "date": "22 de dezembro de 2021",
+         "advisor": "José Maria da Silva Monteiro Filho",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ms José Wellington Franco da Silva",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Jonice de Oliveira Sampaio",
+                 "organization": "UFRJ"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Davidson Alves Nunes",
+         "title": "Uso clínico dos códigos CID: um estudo exploratório em larga escala",
+         "date": "26 de novembro de 2021",
+         "advisor": "João Bosco Ferreira Filho",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "João Bosco Ferreira Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Luciano Heitor Gallegos Marin",
+                 "organization": "UFPR"
+             },
+             {
+                 "name": "Flávio Rubens de Carvalho Sousa",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Bruno Menezes Rocha",
+         "title": "Uma abordagem de dois níveis baseada em verificação de modelos de uma lógica modal para auxiliar na análise de conformidade arquitetural de software.",
+         "date": "29 de outubro de 2021",
+         "advisor": "Ana Teresa de Castro Martins",
+         "coor_advisor": "Thiago Alves Rocha",
+         "examination_board": [
+             {
+                 "name": "Ana Teresa de Castro Martins",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Thiago Alves Rocha",
+                 "organization": "IFCE"
+             },
+             {
+                 "name": "João Fernando Lima Alcântara",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Lincoln Souza Rocha",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Edward Hermann Haeusler",
+                 "organization": "PUCRIO"
+             },
+             {
+                 "name": "Francicleber Martins Ferreira",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+{
+         "name": "Ícaro Manfrinni Rodrigues Sousa",
+         "title": "Geração automática de modelos geométricos de pontes e viadutos.",
+         "date": "30 de julho de 2021",
+         "advisor": "Creto Augusto Vidal",
+         "coor_advisor": "Joaquim Bento Cavalcante Neto",
+         "examination_board": [
+             {
+                 "name": "Creto Augusto Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Joaquim Bento Cavalcante Neto",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Joaquim Eduardo Mota",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Valério da Silva Almeida",
+                 "organization": "USP"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Paulo Filipe dos Santos Dantas",
+         "title": "ViSCo (View, Scan, and Control it): Uso de visão computacional para descoberta de serviços em ambientes residenciais inteligentes",
+         "date": "30 de abril de 2021",
+         "advisor": "Windson Viana de Carvalho",
+         "coor_advisor": "José Gilvan Rodrigues Maia",
+         "examination_board": [
+             {
+                 "name": "Windson Viana de Carvalho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Marcio Espíndola Freire Maia",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Fernando Antônio Mota Trinta",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Kiev Santos da Gama",
+                 "organization": "UFPE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Matheus Mayron Lima de Cruz",
+         "title": "Uma abordagem para construção de mashups de dados especificados como uma visão sobre um EKG.",
+         "date": "30 de abril de 2021",
+         "advisor": "Vânia Maria Ponte Vidal",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Vânia Maria Ponte Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Angelo Roncalli Alencar Brayner",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "André de Oliveira Bastos",
+         "title": "S-VIDIA - A Visual Analytics Approach to Facilitate Diagnosing Spatial Interpolation Models.",
+         "date": "30 de abril de 2021",
+         "advisor": "Emanuele Marques dos Santos",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Emanuele Marques dos Santos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "George Allan Menezes Gomes",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Luciano Andrade Barbosa",
+                 "organization": "UFPE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Erick Lima Trentini",
+         "title": "Soluções em detecção de anomalias em séries temporais multivariadas utilizando modelos preditivos.",
+         "date": "30 de abril de 2021",
+         "advisor": "Jose Antonio Fernandes de Macedo",
+         "coor_advisor": "Ticiana Linhares Coelho da Silva",
+         "examination_board": [
+             {
+                 "name": "Jose Antonio Fernandes de Macedo",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ticiana Linhares Coelho da Silva",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Leopoldo Melo Junior",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+
+{
+         "name": "Nicodemos Freitas",
+         "title": "Predição de casos de arboviroses na cidade de Fortaleza-CE utilizando internet das coisas e aprendizado de máquina.",
+         "date": "30 de abril de 2021",
+         "advisor": "Emanuel Bezerra Rodrigues",
+         "coor_advisor": "Miguel Franklin de Castro",
+         "examination_board": [
+             {
+                 "name": "Emanuel Bezerra Rodrigues",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Miguel Franklin de Castro",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Paulo Antonio Leal Rego",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Antonio Mauro Barbosa de Oliveira",
+                 "organization": "IFCE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Gabriel Hellen de Sousa",
+         "title": "Problema da Arvore t-Spanner de Custo Mínimo.",
+         "date": "29 de abril de 2021",
+         "advisor": "Manoel Bezerra Campêlo Neto",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Manoel Bezerra Campêlo Neto",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Rafael Castro de Andrade",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Phablo Fernando Soares Moura",
+                 "organization": "UFMG"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Ivandro Claudino de Sá",
+         "title": "Digital lighthouse: a platform for monitoring misinformation in WhatsApp public groups.",
+         "date": "23 de abril de 2021",
+         "advisor": "José Maria da Silva Monteiro Filho",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Angelo Roncalli Alencar Brayner",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "George Edson Albuquerque Pinto",
+         "title": "Otimalidade dinâmica: Um survey.",
+         "date": "29 de março de 2021",
+         "advisor": "Victor Almeida Campos",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Victor Almeida Campos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Manoel Bezerra Campêlo Neto",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Carlos Vinícius Gomes Costa Lima",
+                 "organization": "UFCA"
+             },
+             {
+                 "name": "Nicolas de Almeida Martins",
+                 "organization": "UNILAB"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Vitória Regina Nicolau Silvestre",
+         "title": "DOP-MS: Serviço de offloading de dados usando uma arquitetura de microsserviços com suporte a anonimização de dados.",
+         "date": "25 de fevereiro de 2021",
+         "advisor": "Fernando Antonio Mota Trinta",
+         "coor_advisor": "Lincoln Souza Rocha",
+         "examination_board": [
+             {
+                 "name": "Fernando Antonio Mota Trinta",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Lincoln Souza Rocha",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Paulo Antonio Leal Rego",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Vinícius Cardoso Garcia",
+                 "organization": "UFPE"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+{
+         "name": "Michael Ferreira de Sousa",
+         "title": "VOLLEYJUMP 2.0: Uma abordagem computacional para análise e classificação de saltos em voleibol baseada em múltiplos sensores.",
+         "date": "25 de fevereiro de 2021",
+         "advisor": "Fernando Antonio Mota Trinta",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Fernando Antonio Mota Trinta",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Cesar Lincoln Cavalcante Mattos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Ajalmar Rego da Rocha Neto",
+                 "organization": "IFCE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Douglas Bandeira Ivo",
+         "title": "Um modelo para representação flexível de grupos sociais em simulação de multidão.",
+         "date": "19 de fevereiro de 2021",
+         "advisor": "Joaquim Bento Cavalcante-Neto",
+         "coor_advisor": "Creto Augusto Vidal",
+         "examination_board": [
+             {
+                 "name": "Joaquim Bento Cavalcante-Neto",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Creto Augusto Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Soraia Raupp Musse",
+                 "organization": "PUCRS"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Arthur Silva Bastos",
+         "title": "O uso de técnicas de testes com usuário combinadas com visualização de dados para aperfeiçoar um jogo masocore de plataforma 2D.",
+         "date": "10 de fevereiro de 2021",
+         "advisor": "Emanuele Marques dos Santos",
+         "coor_advisor": "George Allan Menezes Gomes",
+         "examination_board": [
+             {
+                 "name": "Emanuele Marques dos Santos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "George Allan Menezes Gomes",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Creto Augusto Vidal",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Windson Viana de Carvalho",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Esteban Walter Gonzalez Clua",
+                 "organization": "UFF"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Carlos Sérgio da Silva Marinho",
+         "title": "MOON: An approach to data management on relational database and blockchain",
+         "date": "23 de novembro de 2020",
+         "advisor": "Javam de Castro Machado",
+         "coor_advisor": "Leonardo Oliveira Moreira",
+         "examination_board": [
+             {
+                 "name": "Javam de Castro Machado",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Leonardo Oliveira Moreira",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Flávio Rubens de Carvalho Sousa",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Paulo Henrique Mendes Maia",
+                 "organization": "UECE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Israel de Castro Vidal",
+         "title": "ProTECting: garantindo a privacidade de dados gerados em casas inteligentes localmente na borda da rede",
+         "date": "09 de outubro de 2020",
+         "advisor": "Javam de Castro Machado",
+         "coor_advisor": "José Maria da Silva Monteiro Filho",
+         "examination_board": [
+             {
+                 "name": "Javam de Castro Machado",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Leonardo Oliveira Moreira",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Carlos Eduardo Santos Pires",
+                 "organization": "UFCG"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+{
+         "name": "Erick Barros dos Santos",
+         "title": "RETAkE: Abordagem para teste em tempo de execução de sistemas dinamicamente adaptativos",
+         "date": "11 de setembro de 2020",
+         "advisor": "Rossana Maria de Castro Andrade",
+         "coor_advisor": "Ismayle de Sousa Santos",
+         "examination_board": [
+             {
+                 "name": "Rossana Maria de Castro Andrade",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ismayle de Sousa Santos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Marcio Espíndola Freire Maia",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Valéria Lelli Leitão Dantas",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Pedro de Alcântara dos Santos Neto",
+                 "organization": "UFPI"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Daniel Augusto Ramos Macedo Antunes de Souza",
+         "title": "Contributions on latent projections for Gaussian process modeling",
+         "date": "09 de setembro de 2020",
+         "advisor": "João Paulo Pordeus Gomes",
+         "coor_advisor": "César Lincoln Cavalcante Mattos",
+         "examination_board": [
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Felipe Tobar",
+                 "organization": "Universidad de Chile"
+             },
+             {
+                 "name": "Amauri Holanda de Souza Júnior",
+                 "organization": "IFCE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Thiago de Paula Vasconcelos",
+         "title": "Contributions on portfolio-based Bayesian optimization",
+         "date": "11 de agosto de 2020",
+         "advisor": "João Paulo Pordeus Gomes",
+         "coor_advisor": "César Lincoln Cavalcante Mattos",
+         "examination_board": [
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ricardo Bastos Cavalcante Prudêncio",
+                 "organization": "UFPE"
+             },
+             {
+                 "name": "Amauri Holanda de Souza Júnior",
+                 "organization": "IFCE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Abelardo Vieira Mota",
+         "title": "Uma solução baseada em template e multi-solução para geração de textos a partir de triplas",
+         "date": "15 de julho de 2020",
+         "advisor": "José Antônio Fernandes de Macêdo",
+         "coor_advisor": "Ticiana Linhares Coelho da Silva",
+         "examination_board": [
+             {
+                 "name": "José Antônio Fernandes de Macêdo",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ticiana Linhares Coelho da Silva",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Régis Pires Magalhães",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Tulio Vidal Rolim",
+         "title": "SISIFO: Uma Metodologia para Construção e Manutenção Semântica  de Enterprise Knowledge Graphs",
+         "date": "10 de março de 2020",
+         "advisor": "Vânia Maria Ponte Vidal",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Vânia Maria Ponte Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+
+{
+         "name": "Rodolfo Felipe Sganzerla Sabino",
+         "title": "Explorando o hardware gráfico: Desenvolvimento de algoritmos paralelos de computação de OBBs, geração de hierarquia de volumes, modelagem de BVH de dois níveis e implementação de uma pipeline de renderização híbrida.",
+         "date": "09 de março 2020",
+         "advisor": "Creto Augusto Vidal",
+         "coor_advisor": "Joaquim Bento Cavalcante Neto",
+         "examination_board": [
+             {
+                 "name": "Creto Augusto Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Joaquim Bento Cavalcante Neto",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Gilvan Rodrigues Maia",
+                 "organization": "UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Francisco Lucas Falcão Pereira",
+         "title": "Usando modelos de detecção de anomalias para identificação de falhas em discos rígidos.",
+         "date": "09 de março de 2020",
+         "advisor": "João Paulo Pordeus Gomes",
+         "coor_advisor": "Javam de Castro Machado",
+         "examination_board": [
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Javam de Castro Machado",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ajalmar Rego Rocha Neto",
+                 "organization": "IFCE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Efraim Naassom Helem Dantas Rodrigues",
+         "title": "Heurísticas para coloração k-imprópria.",
+         "date": "06 de março de 2020",
+         "advisor": "Cláudia Linhares Sales",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Cláudia Linhares Sales",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ana Karolinna Maia de Oliveira",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Tibérius de Oliveira e Bonates",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Vinicius Fernandes dos Santos",
+                 "organization": "UFMG"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Francisco Daniel Bezerra de Souza Praciano",
+         "title": "Refinamento das estimativas de cardinalidade no processamento de consultas.",
+         "date": "03 de março de 2020",
+         "advisor": "Javam de Castro Machado",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Javam de Castro Machado",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Carmem Satie Hara",
+                 "organization": "UFPR"
+             },
+             {
+                 "name": "Ângelo Roncalli Alencar Brayner",
+                 "organization": "MDCC/UFC"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Francisco Carlos Freire Nunes Junior",
+         "title": "Geração de mapas de hotspots em redes de ruas para a predição de crimes.",
+         "date": "28 de fevereiro de 2020",
+         "advisor": "José Antonio Fernandes de Macêdo",
+         "coor_advisor": "Ticiana Linhares Coelho da Silva",
+         "examination_board": [
+             {
+                 "name": "José Antonio Fernandes de Macêdo",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ticiana Linhares Coelho da Silva",
+                 "organization": "UFC"
+             },
+             {
+                 "name": "Emanuele Marques dos Santos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Wellington Clay Porcino",
+                 "organization": "FNSP"
+             },
+             {
+                 "name": "Vania Bogorny",
+                 "organization": "UFSC"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+{
+         "name": "Cristiano Sousa Melo",
+         "title": "Supporting change-prone class prediction.",
+         "date": "22 de fevereiro de 2020",
+         "advisor": "José Maria da Silva Monteiro Filho",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "João Paulo Pordeus Gomes",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "César Lincoln Cavalcante Mattos",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Gustavo Augusto Lima de Campos",
+                 "organization": "UECE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Pedro Jorge de Abreu Figueredo",
+         "title": "O problema da floresta geradora k-rotulada",
+         "date": "10 de fevereiro de 2020",
+         "advisor": "Manoel Bezerra Campêlo Neto",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Manoel Bezerra Campêlo Neto",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Rafael Castro de Andrade",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Lucídio dos Anjos Formiga Cabral",
+                 "organization": "UFPB"
+             },
+             {
+                 "name": "Marcos José Negreiros Gomes",
+                 "organization": "UECE"
+             }
+         ],
+         "degree": "master"
+     },
+     {
+         "name": "Caio Viktor da Silva Ávila",
+         "title": "Conquest: um framework para a construção de chatbots de IQA baseados em templates sobre knowledges graphs.",
+         "date": "10 de fevereiro de 2020",
+         "advisor": "Vânia Maria Ponte Vidal",
+         "coor_advisor": null,
+         "examination_board": [
+             {
+                 "name": "Vânia Maria Ponte Vidal",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Ângelo Roncalli Alencar Brayner",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "José Maria da Silva Monteiro Filho",
+                 "organization": "MDCC/UFC"
+             },
+             {
+                 "name": "Vládia Célia Pinheiro",
+                 "organization": "UNIFOR"
+             }
+         ],
+         "degree": "master"
+     },
+
+
+
+
+
+
       
       {
          "name":"Lucas Peres Gaspar",
