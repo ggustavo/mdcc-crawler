@@ -51,7 +51,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Marília Soares Mendes Albuquerque Albuquerque",
+               "name":"Marília Soares Mendes Albuquerque",
                "organization":"UFC"
             },
             {
@@ -962,14 +962,14 @@
          "title":"Sistema de apoio a decisão para implantar uma aplicação baseada em microsserviços em um ambiente multi-cloud.",
          "date":"30 de julho de 2019",
          "advisor":"Fernando Antônio Mota Trinta",
-         "coor_advisor":"Dario Vieira Conceição",
+         "coor_advisor":"Dário Vieira Conceição",
          "examination_board":[
             {
                "name":"Fernando Antônio Mota Trinta",
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Dario Vieira Conceição",
+               "name":"Dário Vieira Conceição",
                "organization":"EFREI/França"
             },
             {
@@ -1012,7 +1012,7 @@
              "organization":"MDCC/UFC"
           },
           {
-             "name":"Claudio de Souza Baptista",
+             "name":"Cláudio de Souza Baptista",
              "organization":"UFCG"
           },
           {
@@ -2938,7 +2938,7 @@
                 "organization":"UFMS"
              },
              {
-                "name":"Frederic Havet",
+                "name":"Frédéric Havet",
                 "organization":"INRIA/França"
              }
           ],
