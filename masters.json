@@ -1180,11 +1180,11 @@
          "name": "Francisco Carlos Freire Nunes Junior",
          "title": "Geração de mapas de hotspots em redes de ruas para a predição de crimes.",
          "date": "28 de fevereiro de 2020",
-         "advisor": "José Antonio Fernandes de Macêdo",
+         "advisor": "José Antônio Fernandes de Macêdo",
          "coor_advisor": "Ticiana Linhares Coelho da Silva",
          "examination_board": [
              {
-                 "name": "José Antonio Fernandes de Macêdo",
+                 "name": "José Antônio Fernandes de Macêdo",
                  "organization": "MDCC/UFC"
              },
              {
@@ -1295,11 +1295,11 @@
          "name":"Lucas Peres Gaspar",
          "title":"Consultas sobre fontes de dados ligados baseadas em reconhecimento de entidades nomeadas.",
          "date":"16 de dezembro de 2019",
-         "advisor":"José Antonio Fernandes de Macêdo",
+         "advisor":"José Antônio Fernandes de Macêdo",
          "coor_advisor":"Ticiana Linhares Coelho da Silva",
          "examination_board":[
             {
-               "name":"José Antonio Fernandes de Macêdo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -1761,11 +1761,11 @@
          "name":"Felipe Zschornack Rodrigues Saraiva",
          "title":"Aspect Term Extraction via BLSTM-CRF with Attention on Word Dependencies.",
          "date":"27 de novembro de 2019",
-         "advisor":"José Antonio Fernandes de Macêdo",
+         "advisor":"José Antônio Fernandes de Macêdo",
          "coor_advisor":null,
          "examination_board":[
             {
-               "name":"José Antonio Fernandes de Macêdo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -1787,11 +1787,11 @@
          "name":"Felipe Melo Soares",
          "title":"Compressão de sentenças sobre domínios com disponibilidade limitada de dados rotulados.",
          "date":"27 de novembro de 2019",
-         "advisor":"José Antonio Fernandes de Macêdo",
+         "advisor":"José Antônio Fernandes de Macêdo",
          "coor_advisor":"Ticiana Linhares Coelho da Silva",
          "examination_board":[
             {
-               "name":"José Antonio Fernandes de Macêdo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -4136,7 +4136,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Ruy Guerra Barretto de Queiroz",
+                "name":"Ruy José Guerra Barretto de Queiroz",
                 "organization":"UFPE"
              },
              {
@@ -8088,7 +8088,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Ruy Guerra Barretto de Queiroz",
+                "name":"Ruy José Guerra Barretto de Queiroz",
                 "organization":"UFPE"
              },
              {
@@ -8390,11 +8390,11 @@
           "name":"Renata Maria de Figueiredo Vilas Boas",
           "title":"XMLS+Matcher: Um Metodo para Identificação de Correspondências entre Esquemas XMLS+",
           "date":"23 de agosto de 2002",
-          "advisor":"Vania Maria Ponte Vidal",
+          "advisor":"Vânia Maria Ponte Vidal",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Vania Maria Ponte Vidal",
+                "name":"Vânia Maria Ponte Vidal",
                 "organization":"MDCC/UFC"
              },
              {
@@ -8576,7 +8576,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -8812,11 +8812,11 @@
           "name":"Valdiana da Silva Araújo",
           "title":"Gerando Regras para Mantenção Incremental de Visões Materializadas de Dados Relacionais.",
           "date":"12 de julho de 2005",
-          "advisor":"Vania Maria Ponte Vidal",
+          "advisor":"Vânia Maria Ponte Vidal",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Vania Maria Ponte Vidal",
+                "name":"Vânia Maria Ponte Vidal",
                 "organization":"MDCC/UFC"
              },
              {

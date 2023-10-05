@@ -51,7 +51,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Marília Soares Mendes Albuquerque",
+               "name":"Marília Soares Mendes Albuquerque Albuquerque",
                "organization":"UFC"
             },
             {
@@ -93,7 +93,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Marília Soares Mendes",
+               "name":"Marília Soares Mendes Albuquerque",
                "organization":"UFC"
             },
             {
@@ -111,11 +111,11 @@
          "name":"Leopoldo Soares de Melo Júnior",
          "title":"Improving dynamic selection prediction in imbalanced credit scoring problems.",
          "date":"15 de junho de 2020",
-         "advisor":"José Antonio Fernandes de Macêdo",
+         "advisor":"José Antônio Fernandes de Macêdo",
          "coor_advisor":null,
          "examination_board":[
             {
-               "name":"José Antonio Fernandes de Macêdo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -157,7 +157,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"José Antonio Fernandes de Macêdo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -265,11 +265,11 @@
          "name":"José Wellington Franco da Silva",
          "title":"Um framework baseado em conhecimento de senso comum para sistemas de perguntas e respostas sobre grafo de conhecimento.",
          "date":"17 de fevereiro de 2022",
-         "advisor":"Vania Maria Ponte Vidal",
+         "advisor":"Vânia Maria Ponte Vidal",
          "coor_advisor":"Vládia Célia Monteiro Pinheiro",
          "examination_board":[
             {
-               "name":"Vania Maria Ponte Vidal",
+               "name":"Vânia Maria Ponte Vidal",
                "organization":"MDCC/UFC"
             },
             {
@@ -520,7 +520,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"José Antonio Fernandes Mecêdo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -709,11 +709,11 @@
          "name":"Wagner Guimarães Al Alam",
          "title":"A abstração de contratos contextuais para alocação de recursos de  sistemas de computação paralela orientados a componentes em nuvens.",
          "date":"29 de novembro de 2019",
-         "advisor":"Francisco Heron de Carvalho Junior",
+         "advisor":"Francisco Heron de Carvalho Júnior",
          "coor_advisor":null,
          "examination_board":[
             {
-               "name":"Francisco Heron de Carvalho Junior",
+               "name":"Francisco Heron de Carvalho Júnior",
                "organization":"MDCC/UFC"
             },
             {
@@ -725,7 +725,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Antonio Tadeu Azevedo Gomes",
+               "name":"Antônio Tadeu de Azevedo Gomes",
                "organization":"LNCC"
             },
             {
@@ -871,7 +871,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Manoel Bezerra Campelo Neto",
+               "name":"Manoel Bezerra Campêlo Neto",
                "organization":"MDCC/UFC"
             },
             {
@@ -887,7 +887,7 @@
                "organization":"UFRJ"
             },
             {
-               "name":"Placido Rogerio Pinheiro",
+               "name":"Plácido Rogério Pinheiro",
                "organization":"UNIFOR"
             }
          ],
@@ -909,7 +909,7 @@
                "organization":"UTT/França"
             },
             {
-               "name":"Manoel Bezerra Campelo Neto",
+               "name":"Manoel Bezerra Campêlo Neto",
                "organization":"MDCC/UFC"
             },
             {
@@ -927,11 +927,11 @@
          "name":"Paulo Henrique Macedo de Araujo",
          "title":"The geodesic classification problem on graphs.",
          "date":"12 de agosto de 2019",
-         "advisor":"Manoel Bezerra Campelo Neto",
+         "advisor":"Manoel Bezerra Campêlo Neto",
          "coor_advisor":"Ricardo Cordeiro Corrêa",
          "examination_board":[
             {
-               "name":"Manoel Bezerra Campelo Neto",
+               "name":"Manoel Bezerra Campêlo Neto",
                "organization":"MDCC/UFC"
             },
             {
@@ -1035,7 +1035,7 @@
              "organization":"MDCC/UFC"
           },
           {
-             "name":"Claudia Linhares Sales",
+             "name":"Cláudia Linhares Sales",
              "organization":"MDCC/UFC"
           },
           {
@@ -1043,7 +1043,7 @@
              "organization":"UFC"
           },
           {
-             "name":"Julio César Silva Araújo",
+             "name":"Júlio César Silva Araújo",
              "organization":"UFC"
           },
           {
@@ -1138,7 +1138,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1156,11 +1156,11 @@
           "name":"Pablo Luiz Braga Soares",
           "title":"Problemas quadráticos binários: abordagem teórica e computacional.",
           "date":"11 de outubro de 2018",
-          "advisor":"Manoel Bezerra Campelo Neto",
+          "advisor":"Manoel Bezerra Campêlo Neto",
           "coor_advisor":null,
           "examination_board":[
              {
-                "name":"Manoel Bezerra Campelo Neto",
+                "name":"Manoel Bezerra Campêlo Neto",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1326,7 +1326,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Ricardo Cordeiro  Corrêa",
+                "name":"Ricardo Cordeiro Corrêa",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1364,7 +1364,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Creto Augusto Vidal, UFC",
+                "name":"Creto Augusto Vidal",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1376,7 +1376,7 @@
                 "organization":"IFCE/Maracanaú"
              },
              {
-                "name":"José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -1503,7 +1503,7 @@
           "degree":"doctor"
        },
        {
-          "name":"Marília Soares Mendes",
+          "name":"Marília Soares Mendes Albuquerque",
           "title":"MALTU - Modelo de Avaliação da Linguagem Textual do Usuário a partir de Postagens em Sistemas Sociais",
           "date":"25 de fevereiro de 2015",
           "advisor":"Miguel Franklin de Castro",
@@ -1790,7 +1790,7 @@
                 "organization":"UEVE  França"
              },
              {
-                "name":"Elias Procópio Duarte Junior",
+                "name":"Elias Procópio Duarte Júnior",
                 "organization":"UFPR"
              }
           ],
@@ -2102,7 +2102,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Francisco Heron de Cavalho Junior",
+                "name":"Francisco Heron de Carvalho Júnior",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2132,7 +2132,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Javam de Castro Machadol",
+                "name":"Javam de Castro Machado",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2162,7 +2162,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Dr José Antonio Fernandes de Macêdo",
+                "name":"José Antônio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2208,7 +2208,7 @@
                 "organization":"RWTH Aachen/Alemanha"
              },
              {
-                "name":"Edward Hermann Hausler",
+                "name":"Edward Hermann Haeusler",
                 "organization":"PUC/RJ"
              },
              {
@@ -2302,7 +2302,7 @@
                 "organization":"UECE"
              },
              {
-                "name":"Lincoln de Souza Rocha",
+                "name":"Lincoln Souza Rocha",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2324,7 +2324,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Luís manuel Dias Coelho Soares da Rocha",
+                "name":"Luís Manuel Dias Coelho Soares Barbosa",
                 "organization":"UMinho/Portugal"
              },
              {
@@ -2354,7 +2354,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Antônio Tadeu Azevedo Gomes",
+                "name":"Antônio Tadeu de Azevedo Gomes",
                 "organization":"LNCC"
              },
              {
@@ -2422,7 +2422,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Criston Pereira de Sousa",
+                "name":"Críston Pereira de Souza",
                 "organization":"UFC/Quixadá"
              },
              {
@@ -2716,7 +2716,7 @@
                 "organization":"PUC/RJ"
              },
              {
-                "name":"Ruy de Queiroz",
+                "name":"Ruy José Guerra Barretto de Queiroz",
                 "organization":"UFPE"
              },
              {
@@ -2750,7 +2750,7 @@
                 "organization":"PUC/RJ"
              },
              {
-                "name":"Dr Helena Franco Martins",
+                "name":"Helena Franco Martins",
                 "organization":"PUC/RJ"
              }
           ],
@@ -2930,7 +2930,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Jayme Luiz Szwarcfizter",
+                "name":"Jayme Luiz Szwarcfiter",
                 "organization":"UFRJ"
              },
              {
