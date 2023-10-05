@@ -262,7 +262,7 @@
          "degree":"doctor"
       },
       {
-         "name":"Jose Wellington Franco da Silva",
+         "name":"José Wellington Franco da Silva",
          "title":"Um framework baseado em conhecimento de senso comum para sistemas de perguntas e respostas sobre grafo de conhecimento.",
          "date":"17 de fevereiro de 2022",
          "advisor":"Vania Maria Ponte Vidal",
@@ -281,7 +281,7 @@
                "organization":"UFC"
             },
             {
-               "name":"Angelo Roncalli Alencar Brayner",
+               "name":"Ângelo Roncalli Alencar Brayner",
                "organization":"UFC"
             },
             {
@@ -386,7 +386,7 @@
          "title":"Geração de malhas de alta ordem para Análise Isogeométrica utilizando elementos de Bezier racionais.",
          "date":"26 de agosto de 2022",
          "advisor":"Joaquim Bento Cavalcante Neto",
-         "coor_advisor":"Evandro Parente Junior",
+         "coor_advisor":"Evandro Parente Júnior",
          "examination_board":[
             {
                "name":"Joaquim Bento Cavalcante Neto",
@@ -397,7 +397,7 @@
                "organization":"UFC"
             },
             {
-               "name":"Evandro Parente Junior",
+               "name":"Evandro Parente Júnior",
                "organization":"UFC"
             },
             {
@@ -415,11 +415,11 @@
          "name":"Livia Almada Cruz",
          "title":"Location prediction from external sensors trajectories.",
          "date":"09 de agosto de 2022",
-         "advisor":"Jose Antonio Fernandes de Macedo",
+         "advisor":"José Antônio Fernandes de Macêdo",
          "coor_advisor":"Karine Bennis Zeitouni",
          "examination_board":[
             {
-               "name":"Jose Antonio Fernandes de Macedo",
+               "name":"José Antônio Fernandes de Macêdo",
                "organization":"MDCC/UFC"
             },
             {
@@ -446,14 +446,14 @@
          "title":"Main memory database instant recovery.",
          "date":"06 de junho de 2022",
          "advisor":"José Maria da Silva Monteiro Filho",
-         "coor_advisor":"Angelo Roncalli Alencar Brayner",
+         "coor_advisor":"Ângelo Roncalli Alencar Brayner",
          "examination_board":[
             {
                "name":"José Maria da Silva Monteiro Filho",
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Angelo Roncalli Alencar Brayner",
+               "name":"Ângelo Roncalli Alencar Brayner",
                "organization":"UFC"
             },
             {
@@ -823,7 +823,7 @@
                "organization":"PUCRJ"
             },
             {
-               "name":"Ruy Jose Guerra Barretto de Queiroz",
+               "name":"Ruy José Guerra Barretto de Queiroz",
                "organization":"UFPE"
             }
          ],
@@ -879,7 +879,7 @@
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Marcos Jose Negreiros Gomes",
+               "name":"Marcos José Negreiros Gomes",
                "organization":"UECE"
             },
             {
@@ -928,14 +928,14 @@
          "title":"The geodesic classification problem on graphs.",
          "date":"12 de agosto de 2019",
          "advisor":"Manoel Bezerra Campelo Neto",
-         "coor_advisor":"Ricardo Cordeiro Correa",
+         "coor_advisor":"Ricardo Cordeiro Corrêa",
          "examination_board":[
             {
                "name":"Manoel Bezerra Campelo Neto",
                "organization":"MDCC/UFC"
             },
             {
-               "name":"Ricardo Cordeiro Correa",
+               "name":"Ricardo Cordeiro Corrêa",
                "organization":"UFRRJ"
             },
             {
@@ -961,11 +961,11 @@
          "name":"Juliana Oliveira de Carvalho",
          "title":"Sistema de apoio a decisão para implantar uma aplicação baseada em microsserviços em um ambiente multi-cloud.",
          "date":"30 de julho de 2019",
-         "advisor":"Fernando Antonio Mota Trinta",
+         "advisor":"Fernando Antônio Mota Trinta",
          "coor_advisor":"Dario Vieira Conceicao",
          "examination_board":[
             {
-               "name":"Fernando Antonio Mota Trinta",
+               "name":"Fernando Antônio Mota Trinta",
                "organization":"MDCC/UFC"
             },
             {
@@ -973,7 +973,7 @@
                "organization":"EFREI/França"
             },
             {
-               "name":"Jose Neuman de Souza",
+               "name":"José Neuman de Souza",
                "organization":"MDCC/UFC"
             },
             {
@@ -981,7 +981,7 @@
                "organization":"UFPE"
             },
             {
-               "name":"Vinicius Cardoso Garcia",
+               "name":"Vinícius Cardoso Garcia",
                "organization":"UFPE"
             }
          ],
@@ -992,11 +992,11 @@
        "name":"Luis Fernando Maia Santos Silva",
        "title":"Balancing and transposition of maps for location-based games.",
        "date":"11 de julho de 2019",
-       "advisor":"Fernando Antonio Mota Trinta",
+       "advisor":"Fernando Antônio Mota Trinta",
        "coor_advisor":"Windson Viana de Carvalho",
        "examination_board":[
           {
-             "name":"Fernando Antonio Mota Trinta",
+             "name":"Fernando Antônio Mota Trinta",
              "organization":"MDCC/UFC"
           },
           {
@@ -1062,19 +1062,19 @@
        "name":"Raimundo Tales Benigno Rocha Matos",
        "title":"Feature selection with low correlated binary features for potential tax fraudsters classification.",
        "date":"19 de junho de 2019",
-       "advisor":"Jose Maria da Silva Monteiro Filho",
-       "coor_advisor":"Jose Antonio Fernandes de Macedo",
+       "advisor":"José Maria da Silva Monteiro Filho",
+       "coor_advisor":"José Antônio Fernandes de Macêdo",
        "examination_board":[
           {
-             "name":"Jose Maria da Silva Monteiro Filho",
+             "name":"José Maria da Silva Monteiro Filho",
              "organization":"MDCC/UFC"
           },
           {
-             "name":"Jose Antonio Fernandes de Macedo",
+             "name":"José Antônio Fernandes de Macêdo",
              "organization":"MDCC/UFC"
           },
           {
-             "name":"Cesar Lincoln Cavalcante Mattos",
+             "name":"César Lincoln Cavalcante Mattos",
              "organization":"MDCC/UFC"
           },
           {
@@ -1112,7 +1112,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Joaquim Celestino Junior",
+                "name":"Joaquim Celestino Júnior",
                 "organization":"UECE"
              },
              {
@@ -1138,7 +1138,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antonio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -1274,7 +1274,7 @@
                 "organization":"LNCC"
              },
              {
-                "name":"Marco Antonio Casanova",
+                "name":"Marco Antônio Casanova",
                 "organization":"PUC/RJ"
              }
           ],
@@ -1376,7 +1376,7 @@
                 "organization":"IFCE/Maracanaú"
              },
              {
-                "name":"José Antonio Fernandes de Macedo",
+                "name":"José Antonio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              }
           ],
@@ -2020,7 +2020,7 @@
                 "organization":"UFOP"
              },
              {
-                "name":"Ricardo Cordeiro Correa",
+                "name":"Ricardo Cordeiro Corrêa",
                 "organization":"UFRRJ"
              },
              {
@@ -2162,7 +2162,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Dr José Antonio Fernandes de Macedo",
+                "name":"Dr José Antonio Fernandes de Macêdo",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2384,7 +2384,7 @@
                 "organization":"MDCC/UFC"
              },
              {
-                "name":"Fernando Antonio Mota Trinta",
+                "name":"Fernando Antônio Mota Trinta",
                 "organization":"MDCC/UFC"
              },
              {
@@ -2426,7 +2426,7 @@
                 "organization":"UFC/Quixadá"
              },
              {
-                "name":"Luiz Satoru Ochhi",
+                "name":"Luiz Satoru Ochi",
                 "organization":"UFF"
              },
              {
@@ -2573,7 +2573,7 @@
           "title":"Applying Smart Decisions, Adaptive Monitoring and Mobility Support for Enhancing Offloading Systems.",
           "date":"02 de dezembro de 2016",
           "advisor":"José Neuman de Souza",
-          "coor_advisor":"Fernando Antonio Mota Trinta",
+          "coor_advisor":"Fernando Antônio Mota Trinta",
           "examination_board":[
              {
                 "name":"José Neuman de Souza",
@@ -2584,7 +2584,7 @@
                 "organization":"CISCO"
              },
              {
-                "name":"Fernando Antonio Mota Trinta",
+                "name":"Fernando Antônio Mota Trinta",
                 "organization":"MDCC/UFC"
              },
              {
